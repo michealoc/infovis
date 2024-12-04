@@ -1,0 +1,2286 @@
+race_name,year,surname,points
+Australian Grand Prix,2008,Räikkönen,1.0
+Australian Grand Prix,2008,Massa,0.0
+Malaysian Grand Prix,2008,Räikkönen,10.0
+Malaysian Grand Prix,2008,Massa,0.0
+Bahrain Grand Prix,2008,Massa,10.0
+Bahrain Grand Prix,2008,Räikkönen,8.0
+Spanish Grand Prix,2008,Räikkönen,10.0
+Spanish Grand Prix,2008,Massa,8.0
+Turkish Grand Prix,2008,Massa,10.0
+Turkish Grand Prix,2008,Räikkönen,6.0
+Monaco Grand Prix,2008,Massa,6.0
+Monaco Grand Prix,2008,Räikkönen,0.0
+Canadian Grand Prix,2008,Massa,4.0
+Canadian Grand Prix,2008,Räikkönen,0.0
+French Grand Prix,2008,Massa,10.0
+French Grand Prix,2008,Räikkönen,8.0
+British Grand Prix,2008,Räikkönen,5.0
+British Grand Prix,2008,Massa,0.0
+German Grand Prix,2008,Massa,6.0
+German Grand Prix,2008,Räikkönen,3.0
+Hungarian Grand Prix,2008,Räikkönen,6.0
+Hungarian Grand Prix,2008,Massa,0.0
+European Grand Prix,2008,Massa,10.0
+European Grand Prix,2008,Räikkönen,0.0
+Belgian Grand Prix,2008,Massa,10.0
+Belgian Grand Prix,2008,Räikkönen,0.0
+Italian Grand Prix,2008,Massa,3.0
+Italian Grand Prix,2008,Räikkönen,0.0
+Singapore Grand Prix,2008,Massa,0.0
+Singapore Grand Prix,2008,Räikkönen,0.0
+Japanese Grand Prix,2008,Räikkönen,6.0
+Japanese Grand Prix,2008,Massa,2.0
+Chinese Grand Prix,2008,Massa,8.0
+Chinese Grand Prix,2008,Räikkönen,6.0
+Brazilian Grand Prix,2008,Massa,10.0
+Brazilian Grand Prix,2008,Räikkönen,6.0
+Australian Grand Prix,2007,Räikkönen,10.0
+Australian Grand Prix,2007,Massa,3.0
+Malaysian Grand Prix,2007,Räikkönen,6.0
+Malaysian Grand Prix,2007,Massa,4.0
+Bahrain Grand Prix,2007,Massa,10.0
+Bahrain Grand Prix,2007,Räikkönen,6.0
+Spanish Grand Prix,2007,Massa,10.0
+Spanish Grand Prix,2007,Räikkönen,0.0
+Monaco Grand Prix,2007,Massa,6.0
+Monaco Grand Prix,2007,Räikkönen,1.0
+Canadian Grand Prix,2007,Räikkönen,4.0
+Canadian Grand Prix,2007,Massa,0.0
+United States Grand Prix,2007,Massa,6.0
+United States Grand Prix,2007,Räikkönen,5.0
+French Grand Prix,2007,Räikkönen,10.0
+French Grand Prix,2007,Massa,8.0
+British Grand Prix,2007,Räikkönen,10.0
+British Grand Prix,2007,Massa,4.0
+European Grand Prix,2007,Massa,8.0
+European Grand Prix,2007,Räikkönen,0.0
+Hungarian Grand Prix,2007,Räikkönen,8.0
+Hungarian Grand Prix,2007,Massa,0.0
+Turkish Grand Prix,2007,Massa,10.0
+Turkish Grand Prix,2007,Räikkönen,8.0
+Italian Grand Prix,2007,Räikkönen,6.0
+Italian Grand Prix,2007,Massa,0.0
+Belgian Grand Prix,2007,Räikkönen,10.0
+Belgian Grand Prix,2007,Massa,8.0
+Japanese Grand Prix,2007,Räikkönen,6.0
+Japanese Grand Prix,2007,Massa,3.0
+Chinese Grand Prix,2007,Räikkönen,10.0
+Chinese Grand Prix,2007,Massa,6.0
+Brazilian Grand Prix,2007,Räikkönen,10.0
+Brazilian Grand Prix,2007,Massa,8.0
+Bahrain Grand Prix,2006,Schumacher,8.0
+Bahrain Grand Prix,2006,Massa,0.0
+Malaysian Grand Prix,2006,Massa,4.0
+Malaysian Grand Prix,2006,Schumacher,3.0
+Australian Grand Prix,2006,Schumacher,0.0
+Australian Grand Prix,2006,Massa,0.0
+San Marino Grand Prix,2006,Schumacher,10.0
+San Marino Grand Prix,2006,Massa,5.0
+European Grand Prix,2006,Schumacher,10.0
+European Grand Prix,2006,Massa,6.0
+Spanish Grand Prix,2006,Schumacher,8.0
+Spanish Grand Prix,2006,Massa,5.0
+Monaco Grand Prix,2006,Schumacher,4.0
+Monaco Grand Prix,2006,Massa,0.0
+British Grand Prix,2006,Schumacher,8.0
+British Grand Prix,2006,Massa,4.0
+Canadian Grand Prix,2006,Schumacher,8.0
+Canadian Grand Prix,2006,Massa,4.0
+United States Grand Prix,2006,Schumacher,10.0
+United States Grand Prix,2006,Massa,8.0
+French Grand Prix,2006,Schumacher,10.0
+French Grand Prix,2006,Massa,6.0
+German Grand Prix,2006,Schumacher,10.0
+German Grand Prix,2006,Massa,8.0
+Hungarian Grand Prix,2006,Massa,2.0
+Hungarian Grand Prix,2006,Schumacher,1.0
+Turkish Grand Prix,2006,Massa,10.0
+Turkish Grand Prix,2006,Schumacher,6.0
+Italian Grand Prix,2006,Schumacher,10.0
+Italian Grand Prix,2006,Massa,0.0
+Chinese Grand Prix,2006,Schumacher,10.0
+Chinese Grand Prix,2006,Massa,0.0
+Japanese Grand Prix,2006,Massa,8.0
+Japanese Grand Prix,2006,Schumacher,0.0
+Brazilian Grand Prix,2006,Massa,10.0
+Brazilian Grand Prix,2006,Schumacher,5.0
+Australian Grand Prix,2005,Barrichello,8.0
+Australian Grand Prix,2005,Schumacher,0.0
+Malaysian Grand Prix,2005,Schumacher,2.0
+Malaysian Grand Prix,2005,Barrichello,0.0
+Bahrain Grand Prix,2005,Barrichello,0.0
+Bahrain Grand Prix,2005,Schumacher,0.0
+San Marino Grand Prix,2005,Schumacher,8.0
+San Marino Grand Prix,2005,Barrichello,0.0
+Spanish Grand Prix,2005,Barrichello,0.0
+Spanish Grand Prix,2005,Schumacher,0.0
+Monaco Grand Prix,2005,Schumacher,2.0
+Monaco Grand Prix,2005,Barrichello,1.0
+European Grand Prix,2005,Barrichello,6.0
+European Grand Prix,2005,Schumacher,4.0
+Canadian Grand Prix,2005,Schumacher,8.0
+Canadian Grand Prix,2005,Barrichello,6.0
+United States Grand Prix,2005,Schumacher,10.0
+United States Grand Prix,2005,Barrichello,8.0
+French Grand Prix,2005,Schumacher,6.0
+French Grand Prix,2005,Barrichello,0.0
+British Grand Prix,2005,Schumacher,3.0
+British Grand Prix,2005,Barrichello,2.0
+German Grand Prix,2005,Schumacher,4.0
+German Grand Prix,2005,Barrichello,0.0
+Hungarian Grand Prix,2005,Schumacher,8.0
+Hungarian Grand Prix,2005,Barrichello,0.0
+Turkish Grand Prix,2005,Barrichello,0.0
+Turkish Grand Prix,2005,Schumacher,0.0
+Italian Grand Prix,2005,Schumacher,0.0
+Italian Grand Prix,2005,Barrichello,0.0
+Belgian Grand Prix,2005,Barrichello,4.0
+Belgian Grand Prix,2005,Schumacher,0.0
+Brazilian Grand Prix,2005,Schumacher,5.0
+Brazilian Grand Prix,2005,Barrichello,3.0
+Japanese Grand Prix,2005,Schumacher,2.0
+Japanese Grand Prix,2005,Barrichello,0.0
+Chinese Grand Prix,2005,Barrichello,0.0
+Chinese Grand Prix,2005,Schumacher,0.0
+Australian Grand Prix,2004,Schumacher,10.0
+Australian Grand Prix,2004,Barrichello,8.0
+Malaysian Grand Prix,2004,Schumacher,10.0
+Malaysian Grand Prix,2004,Barrichello,5.0
+Bahrain Grand Prix,2004,Schumacher,10.0
+Bahrain Grand Prix,2004,Barrichello,8.0
+San Marino Grand Prix,2004,Schumacher,10.0
+San Marino Grand Prix,2004,Barrichello,3.0
+Spanish Grand Prix,2004,Schumacher,10.0
+Spanish Grand Prix,2004,Barrichello,8.0
+Monaco Grand Prix,2004,Barrichello,6.0
+Monaco Grand Prix,2004,Schumacher,0.0
+European Grand Prix,2004,Schumacher,10.0
+European Grand Prix,2004,Barrichello,8.0
+Canadian Grand Prix,2004,Schumacher,10.0
+Canadian Grand Prix,2004,Barrichello,8.0
+United States Grand Prix,2004,Schumacher,10.0
+United States Grand Prix,2004,Barrichello,8.0
+French Grand Prix,2004,Schumacher,10.0
+French Grand Prix,2004,Barrichello,6.0
+British Grand Prix,2004,Schumacher,10.0
+British Grand Prix,2004,Barrichello,6.0
+German Grand Prix,2004,Schumacher,10.0
+German Grand Prix,2004,Barrichello,0.0
+Hungarian Grand Prix,2004,Schumacher,10.0
+Hungarian Grand Prix,2004,Barrichello,8.0
+Belgian Grand Prix,2004,Schumacher,8.0
+Belgian Grand Prix,2004,Barrichello,6.0
+Italian Grand Prix,2004,Barrichello,10.0
+Italian Grand Prix,2004,Schumacher,8.0
+Chinese Grand Prix,2004,Barrichello,10.0
+Chinese Grand Prix,2004,Schumacher,0.0
+Japanese Grand Prix,2004,Schumacher,10.0
+Japanese Grand Prix,2004,Barrichello,0.0
+Brazilian Grand Prix,2004,Barrichello,6.0
+Brazilian Grand Prix,2004,Schumacher,2.0
+Australian Grand Prix,2003,Schumacher,5.0
+Australian Grand Prix,2003,Barrichello,0.0
+Malaysian Grand Prix,2003,Barrichello,8.0
+Malaysian Grand Prix,2003,Schumacher,3.0
+Brazilian Grand Prix,2003,Barrichello,0.0
+Brazilian Grand Prix,2003,Schumacher,0.0
+San Marino Grand Prix,2003,Schumacher,10.0
+San Marino Grand Prix,2003,Barrichello,6.0
+Spanish Grand Prix,2003,Schumacher,10.0
+Spanish Grand Prix,2003,Barrichello,6.0
+Austrian Grand Prix,2003,Schumacher,10.0
+Austrian Grand Prix,2003,Barrichello,6.0
+Monaco Grand Prix,2003,Schumacher,6.0
+Monaco Grand Prix,2003,Barrichello,1.0
+Canadian Grand Prix,2003,Schumacher,10.0
+Canadian Grand Prix,2003,Barrichello,4.0
+European Grand Prix,2003,Barrichello,6.0
+European Grand Prix,2003,Schumacher,4.0
+French Grand Prix,2003,Schumacher,6.0
+French Grand Prix,2003,Barrichello,2.0
+British Grand Prix,2003,Barrichello,10.0
+British Grand Prix,2003,Schumacher,5.0
+German Grand Prix,2003,Schumacher,2.0
+German Grand Prix,2003,Barrichello,0.0
+Hungarian Grand Prix,2003,Schumacher,1.0
+Hungarian Grand Prix,2003,Barrichello,0.0
+Italian Grand Prix,2003,Schumacher,10.0
+Italian Grand Prix,2003,Barrichello,6.0
+United States Grand Prix,2003,Schumacher,10.0
+United States Grand Prix,2003,Barrichello,0.0
+Japanese Grand Prix,2003,Barrichello,10.0
+Japanese Grand Prix,2003,Schumacher,1.0
+Australian Grand Prix,2002,Schumacher,10.0
+Australian Grand Prix,2002,Barrichello,0.0
+Malaysian Grand Prix,2002,Schumacher,4.0
+Malaysian Grand Prix,2002,Barrichello,0.0
+Brazilian Grand Prix,2002,Schumacher,10.0
+Brazilian Grand Prix,2002,Barrichello,0.0
+San Marino Grand Prix,2002,Schumacher,10.0
+San Marino Grand Prix,2002,Barrichello,6.0
+Spanish Grand Prix,2002,Schumacher,10.0
+Spanish Grand Prix,2002,Barrichello,0.0
+Austrian Grand Prix,2002,Schumacher,10.0
+Austrian Grand Prix,2002,Barrichello,6.0
+Monaco Grand Prix,2002,Schumacher,6.0
+Monaco Grand Prix,2002,Barrichello,0.0
+Canadian Grand Prix,2002,Schumacher,10.0
+Canadian Grand Prix,2002,Barrichello,4.0
+European Grand Prix,2002,Barrichello,10.0
+European Grand Prix,2002,Schumacher,6.0
+British Grand Prix,2002,Schumacher,10.0
+British Grand Prix,2002,Barrichello,6.0
+French Grand Prix,2002,Schumacher,10.0
+French Grand Prix,2002,Barrichello,0.0
+German Grand Prix,2002,Schumacher,10.0
+German Grand Prix,2002,Barrichello,3.0
+Hungarian Grand Prix,2002,Barrichello,10.0
+Hungarian Grand Prix,2002,Schumacher,6.0
+Belgian Grand Prix,2002,Schumacher,10.0
+Belgian Grand Prix,2002,Barrichello,6.0
+Italian Grand Prix,2002,Barrichello,10.0
+Italian Grand Prix,2002,Schumacher,6.0
+United States Grand Prix,2002,Barrichello,10.0
+United States Grand Prix,2002,Schumacher,6.0
+Japanese Grand Prix,2002,Schumacher,10.0
+Japanese Grand Prix,2002,Barrichello,6.0
+Australian Grand Prix,2001,Schumacher,10.0
+Australian Grand Prix,2001,Barrichello,4.0
+Malaysian Grand Prix,2001,Schumacher,10.0
+Malaysian Grand Prix,2001,Barrichello,6.0
+Brazilian Grand Prix,2001,Schumacher,6.0
+Brazilian Grand Prix,2001,Barrichello,0.0
+San Marino Grand Prix,2001,Barrichello,4.0
+San Marino Grand Prix,2001,Schumacher,0.0
+Spanish Grand Prix,2001,Schumacher,10.0
+Spanish Grand Prix,2001,Barrichello,0.0
+Austrian Grand Prix,2001,Schumacher,6.0
+Austrian Grand Prix,2001,Barrichello,4.0
+Monaco Grand Prix,2001,Schumacher,10.0
+Monaco Grand Prix,2001,Barrichello,6.0
+Canadian Grand Prix,2001,Schumacher,6.0
+Canadian Grand Prix,2001,Barrichello,0.0
+European Grand Prix,2001,Schumacher,10.0
+European Grand Prix,2001,Barrichello,2.0
+French Grand Prix,2001,Schumacher,10.0
+French Grand Prix,2001,Barrichello,4.0
+British Grand Prix,2001,Schumacher,6.0
+British Grand Prix,2001,Barrichello,4.0
+German Grand Prix,2001,Barrichello,6.0
+German Grand Prix,2001,Schumacher,0.0
+Hungarian Grand Prix,2001,Schumacher,10.0
+Hungarian Grand Prix,2001,Barrichello,6.0
+Belgian Grand Prix,2001,Schumacher,10.0
+Belgian Grand Prix,2001,Barrichello,2.0
+Italian Grand Prix,2001,Barrichello,6.0
+Italian Grand Prix,2001,Schumacher,3.0
+United States Grand Prix,2001,Schumacher,6.0
+United States Grand Prix,2001,Barrichello,0.0
+Japanese Grand Prix,2001,Schumacher,10.0
+Japanese Grand Prix,2001,Barrichello,2.0
+Australian Grand Prix,2000,Schumacher,10.0
+Australian Grand Prix,2000,Barrichello,6.0
+Brazilian Grand Prix,2000,Schumacher,10.0
+Brazilian Grand Prix,2000,Barrichello,0.0
+San Marino Grand Prix,2000,Schumacher,10.0
+San Marino Grand Prix,2000,Barrichello,3.0
+British Grand Prix,2000,Schumacher,4.0
+British Grand Prix,2000,Barrichello,0.0
+Spanish Grand Prix,2000,Barrichello,4.0
+Spanish Grand Prix,2000,Schumacher,2.0
+European Grand Prix,2000,Schumacher,10.0
+European Grand Prix,2000,Barrichello,3.0
+Monaco Grand Prix,2000,Barrichello,6.0
+Monaco Grand Prix,2000,Schumacher,0.0
+Canadian Grand Prix,2000,Schumacher,10.0
+Canadian Grand Prix,2000,Barrichello,6.0
+French Grand Prix,2000,Barrichello,4.0
+French Grand Prix,2000,Schumacher,0.0
+Austrian Grand Prix,2000,Barrichello,4.0
+Austrian Grand Prix,2000,Schumacher,0.0
+German Grand Prix,2000,Barrichello,10.0
+German Grand Prix,2000,Schumacher,0.0
+Hungarian Grand Prix,2000,Schumacher,6.0
+Hungarian Grand Prix,2000,Barrichello,3.0
+Belgian Grand Prix,2000,Schumacher,6.0
+Belgian Grand Prix,2000,Barrichello,0.0
+Italian Grand Prix,2000,Schumacher,10.0
+Italian Grand Prix,2000,Barrichello,0.0
+United States Grand Prix,2000,Schumacher,10.0
+United States Grand Prix,2000,Barrichello,6.0
+Japanese Grand Prix,2000,Schumacher,10.0
+Japanese Grand Prix,2000,Barrichello,3.0
+Malaysian Grand Prix,2000,Schumacher,10.0
+Malaysian Grand Prix,2000,Barrichello,4.0
+Australian Grand Prix,1999,Irvine,10.0
+Australian Grand Prix,1999,Schumacher,0.0
+Brazilian Grand Prix,1999,Schumacher,6.0
+Brazilian Grand Prix,1999,Irvine,2.0
+San Marino Grand Prix,1999,Schumacher,10.0
+San Marino Grand Prix,1999,Irvine,0.0
+Monaco Grand Prix,1999,Schumacher,10.0
+Monaco Grand Prix,1999,Irvine,6.0
+Spanish Grand Prix,1999,Schumacher,4.0
+Spanish Grand Prix,1999,Irvine,3.0
+Canadian Grand Prix,1999,Irvine,4.0
+Canadian Grand Prix,1999,Schumacher,0.0
+French Grand Prix,1999,Schumacher,2.0
+French Grand Prix,1999,Irvine,1.0
+British Grand Prix,1999,Irvine,6.0
+British Grand Prix,1999,Schumacher,0.0
+Austrian Grand Prix,1999,Irvine,10.0
+Austrian Grand Prix,1999,Salo,0.0
+German Grand Prix,1999,Irvine,10.0
+German Grand Prix,1999,Salo,6.0
+Hungarian Grand Prix,1999,Irvine,4.0
+Hungarian Grand Prix,1999,Salo,0.0
+Belgian Grand Prix,1999,Irvine,3.0
+Belgian Grand Prix,1999,Salo,0.0
+Italian Grand Prix,1999,Salo,4.0
+Italian Grand Prix,1999,Irvine,1.0
+European Grand Prix,1999,Irvine,0.0
+European Grand Prix,1999,Salo,0.0
+Malaysian Grand Prix,1999,Irvine,10.0
+Malaysian Grand Prix,1999,Schumacher,6.0
+Japanese Grand Prix,1999,Schumacher,6.0
+Japanese Grand Prix,1999,Irvine,4.0
+Australian Grand Prix,1998,Irvine,3.0
+Australian Grand Prix,1998,Schumacher,0.0
+Brazilian Grand Prix,1998,Schumacher,4.0
+Brazilian Grand Prix,1998,Irvine,0.0
+Argentine Grand Prix,1998,Schumacher,10.0
+Argentine Grand Prix,1998,Irvine,4.0
+San Marino Grand Prix,1998,Schumacher,6.0
+San Marino Grand Prix,1998,Irvine,4.0
+Spanish Grand Prix,1998,Schumacher,4.0
+Spanish Grand Prix,1998,Irvine,0.0
+Monaco Grand Prix,1998,Irvine,4.0
+Monaco Grand Prix,1998,Schumacher,0.0
+Canadian Grand Prix,1998,Schumacher,10.0
+Canadian Grand Prix,1998,Irvine,4.0
+French Grand Prix,1998,Schumacher,10.0
+French Grand Prix,1998,Irvine,6.0
+British Grand Prix,1998,Schumacher,10.0
+British Grand Prix,1998,Irvine,4.0
+Austrian Grand Prix,1998,Schumacher,4.0
+Austrian Grand Prix,1998,Irvine,3.0
+German Grand Prix,1998,Schumacher,2.0
+German Grand Prix,1998,Irvine,0.0
+Hungarian Grand Prix,1998,Schumacher,10.0
+Hungarian Grand Prix,1998,Irvine,0.0
+Belgian Grand Prix,1998,Schumacher,0.0
+Belgian Grand Prix,1998,Irvine,0.0
+Italian Grand Prix,1998,Schumacher,10.0
+Italian Grand Prix,1998,Irvine,6.0
+Luxembourg Grand Prix,1998,Schumacher,6.0
+Luxembourg Grand Prix,1998,Irvine,3.0
+Japanese Grand Prix,1998,Irvine,6.0
+Japanese Grand Prix,1998,Schumacher,0.0
+Australian Grand Prix,1997,Schumacher,6.0
+Australian Grand Prix,1997,Irvine,0.0
+Brazilian Grand Prix,1997,Schumacher,2.0
+Brazilian Grand Prix,1997,Irvine,0.0
+Argentine Grand Prix,1997,Irvine,6.0
+Argentine Grand Prix,1997,Schumacher,0.0
+San Marino Grand Prix,1997,Schumacher,6.0
+San Marino Grand Prix,1997,Irvine,4.0
+Monaco Grand Prix,1997,Schumacher,10.0
+Monaco Grand Prix,1997,Irvine,4.0
+Spanish Grand Prix,1997,Schumacher,3.0
+Spanish Grand Prix,1997,Irvine,0.0
+Canadian Grand Prix,1997,Schumacher,10.0
+Canadian Grand Prix,1997,Irvine,0.0
+French Grand Prix,1997,Schumacher,10.0
+French Grand Prix,1997,Irvine,4.0
+British Grand Prix,1997,Irvine,0.0
+British Grand Prix,1997,Schumacher,0.0
+German Grand Prix,1997,Schumacher,6.0
+German Grand Prix,1997,Irvine,0.0
+Hungarian Grand Prix,1997,Schumacher,3.0
+Hungarian Grand Prix,1997,Irvine,0.0
+Belgian Grand Prix,1997,Schumacher,10.0
+Belgian Grand Prix,1997,Irvine,0.0
+Italian Grand Prix,1997,Schumacher,1.0
+Italian Grand Prix,1997,Irvine,0.0
+Austrian Grand Prix,1997,Schumacher,1.0
+Austrian Grand Prix,1997,Irvine,0.0
+Luxembourg Grand Prix,1997,Irvine,0.0
+Luxembourg Grand Prix,1997,Schumacher,0.0
+Japanese Grand Prix,1997,Schumacher,10.0
+Japanese Grand Prix,1997,Irvine,4.0
+European Grand Prix,1997,Irvine,2.0
+European Grand Prix,1997,Schumacher,0.0
+Australian Grand Prix,1996,Irvine,4.0
+Australian Grand Prix,1996,Schumacher,0.0
+Brazilian Grand Prix,1996,Schumacher,4.0
+Brazilian Grand Prix,1996,Irvine,0.0
+Argentine Grand Prix,1996,Irvine,2.0
+Argentine Grand Prix,1996,Schumacher,0.0
+European Grand Prix,1996,Schumacher,6.0
+European Grand Prix,1996,Irvine,0.0
+San Marino Grand Prix,1996,Schumacher,6.0
+San Marino Grand Prix,1996,Irvine,3.0
+Monaco Grand Prix,1996,Irvine,0.0
+Monaco Grand Prix,1996,Schumacher,0.0
+Spanish Grand Prix,1996,Schumacher,10.0
+Spanish Grand Prix,1996,Irvine,0.0
+Canadian Grand Prix,1996,Schumacher,0.0
+Canadian Grand Prix,1996,Irvine,0.0
+French Grand Prix,1996,Irvine,0.0
+French Grand Prix,1996,Schumacher,0.0
+British Grand Prix,1996,Irvine,0.0
+British Grand Prix,1996,Schumacher,0.0
+German Grand Prix,1996,Schumacher,3.0
+German Grand Prix,1996,Irvine,0.0
+Hungarian Grand Prix,1996,Schumacher,0.0
+Hungarian Grand Prix,1996,Irvine,0.0
+Belgian Grand Prix,1996,Schumacher,10.0
+Belgian Grand Prix,1996,Irvine,0.0
+Italian Grand Prix,1996,Schumacher,10.0
+Italian Grand Prix,1996,Irvine,0.0
+Portuguese Grand Prix,1996,Schumacher,4.0
+Portuguese Grand Prix,1996,Irvine,2.0
+Japanese Grand Prix,1996,Schumacher,6.0
+Japanese Grand Prix,1996,Irvine,0.0
+Brazilian Grand Prix,1995,Berger,4.0
+Brazilian Grand Prix,1995,Alesi,2.0
+Argentine Grand Prix,1995,Alesi,6.0
+Argentine Grand Prix,1995,Berger,1.0
+San Marino Grand Prix,1995,Alesi,6.0
+San Marino Grand Prix,1995,Berger,4.0
+Spanish Grand Prix,1995,Berger,4.0
+Spanish Grand Prix,1995,Alesi,0.0
+Monaco Grand Prix,1995,Berger,4.0
+Monaco Grand Prix,1995,Alesi,0.0
+Canadian Grand Prix,1995,Alesi,10.0
+Canadian Grand Prix,1995,Berger,0.0
+French Grand Prix,1995,Alesi,2.0
+French Grand Prix,1995,Berger,0.0
+British Grand Prix,1995,Alesi,6.0
+British Grand Prix,1995,Berger,0.0
+German Grand Prix,1995,Berger,4.0
+German Grand Prix,1995,Alesi,0.0
+Hungarian Grand Prix,1995,Berger,4.0
+Hungarian Grand Prix,1995,Alesi,0.0
+Belgian Grand Prix,1995,Berger,0.0
+Belgian Grand Prix,1995,Alesi,0.0
+Italian Grand Prix,1995,Alesi,0.0
+Italian Grand Prix,1995,Berger,0.0
+Portuguese Grand Prix,1995,Berger,3.0
+Portuguese Grand Prix,1995,Alesi,2.0
+European Grand Prix,1995,Alesi,6.0
+European Grand Prix,1995,Berger,0.0
+Pacific Grand Prix,1995,Berger,3.0
+Pacific Grand Prix,1995,Alesi,2.0
+Japanese Grand Prix,1995,Alesi,0.0
+Japanese Grand Prix,1995,Berger,0.0
+Australian Grand Prix,1995,Berger,0.0
+Australian Grand Prix,1995,Alesi,0.0
+Brazilian Grand Prix,1994,Alesi,4.0
+Brazilian Grand Prix,1994,Berger,0.0
+Pacific Grand Prix,1994,Berger,6.0
+Pacific Grand Prix,1994,Larini,0.0
+San Marino Grand Prix,1994,Larini,6.0
+San Marino Grand Prix,1994,Berger,0.0
+Monaco Grand Prix,1994,Berger,4.0
+Monaco Grand Prix,1994,Alesi,2.0
+Spanish Grand Prix,1994,Alesi,3.0
+Spanish Grand Prix,1994,Berger,0.0
+Canadian Grand Prix,1994,Alesi,4.0
+Canadian Grand Prix,1994,Berger,3.0
+French Grand Prix,1994,Berger,4.0
+French Grand Prix,1994,Alesi,0.0
+British Grand Prix,1994,Alesi,6.0
+British Grand Prix,1994,Berger,0.0
+German Grand Prix,1994,Berger,10.0
+German Grand Prix,1994,Alesi,0.0
+Hungarian Grand Prix,1994,Berger,0.0
+Hungarian Grand Prix,1994,Alesi,0.0
+Belgian Grand Prix,1994,Berger,0.0
+Belgian Grand Prix,1994,Alesi,0.0
+Italian Grand Prix,1994,Berger,6.0
+Italian Grand Prix,1994,Alesi,0.0
+Portuguese Grand Prix,1994,Alesi,0.0
+Portuguese Grand Prix,1994,Berger,0.0
+European Grand Prix,1994,Berger,2.0
+European Grand Prix,1994,Alesi,0.0
+Japanese Grand Prix,1994,Alesi,4.0
+Japanese Grand Prix,1994,Berger,0.0
+Australian Grand Prix,1994,Berger,6.0
+Australian Grand Prix,1994,Alesi,1.0
+South African Grand Prix,1993,Berger,1.0
+South African Grand Prix,1993,Alesi,0.0
+Brazilian Grand Prix,1993,Alesi,0.0
+Brazilian Grand Prix,1993,Berger,0.0
+European Grand Prix,1993,Alesi,0.0
+European Grand Prix,1993,Berger,0.0
+San Marino Grand Prix,1993,Alesi,0.0
+San Marino Grand Prix,1993,Berger,0.0
+Spanish Grand Prix,1993,Berger,1.0
+Spanish Grand Prix,1993,Alesi,0.0
+Monaco Grand Prix,1993,Alesi,4.0
+Monaco Grand Prix,1993,Berger,0.0
+Canadian Grand Prix,1993,Berger,3.0
+Canadian Grand Prix,1993,Alesi,0.0
+French Grand Prix,1993,Berger,0.0
+French Grand Prix,1993,Alesi,0.0
+British Grand Prix,1993,Alesi,0.0
+British Grand Prix,1993,Berger,0.0
+German Grand Prix,1993,Berger,1.0
+German Grand Prix,1993,Alesi,0.0
+Hungarian Grand Prix,1993,Berger,4.0
+Hungarian Grand Prix,1993,Alesi,0.0
+Belgian Grand Prix,1993,Berger,0.0
+Belgian Grand Prix,1993,Alesi,0.0
+Italian Grand Prix,1993,Alesi,6.0
+Italian Grand Prix,1993,Berger,0.0
+Portuguese Grand Prix,1993,Alesi,3.0
+Portuguese Grand Prix,1993,Berger,0.0
+Japanese Grand Prix,1993,Berger,0.0
+Japanese Grand Prix,1993,Alesi,0.0
+Australian Grand Prix,1993,Alesi,3.0
+Australian Grand Prix,1993,Berger,2.0
+South African Grand Prix,1992,Alesi,0.0
+South African Grand Prix,1992,Capelli,0.0
+Mexican Grand Prix,1992,Alesi,0.0
+Mexican Grand Prix,1992,Capelli,0.0
+Brazilian Grand Prix,1992,Alesi,3.0
+Brazilian Grand Prix,1992,Capelli,2.0
+Spanish Grand Prix,1992,Alesi,4.0
+Spanish Grand Prix,1992,Capelli,0.0
+San Marino Grand Prix,1992,Alesi,0.0
+San Marino Grand Prix,1992,Capelli,0.0
+Monaco Grand Prix,1992,Capelli,0.0
+Monaco Grand Prix,1992,Alesi,0.0
+Canadian Grand Prix,1992,Alesi,4.0
+Canadian Grand Prix,1992,Capelli,0.0
+French Grand Prix,1992,Alesi,0.0
+French Grand Prix,1992,Capelli,0.0
+British Grand Prix,1992,Capelli,0.0
+British Grand Prix,1992,Alesi,0.0
+German Grand Prix,1992,Alesi,2.0
+German Grand Prix,1992,Capelli,0.0
+Hungarian Grand Prix,1992,Capelli,1.0
+Hungarian Grand Prix,1992,Alesi,0.0
+Belgian Grand Prix,1992,Capelli,0.0
+Belgian Grand Prix,1992,Alesi,0.0
+Italian Grand Prix,1992,Alesi,0.0
+Italian Grand Prix,1992,Capelli,0.0
+Portuguese Grand Prix,1992,Capelli,0.0
+Portuguese Grand Prix,1992,Alesi,0.0
+Japanese Grand Prix,1992,Alesi,2.0
+Japanese Grand Prix,1992,Larini,0.0
+Australian Grand Prix,1992,Alesi,3.0
+Australian Grand Prix,1992,Larini,0.0
+United States Grand Prix,1991,Prost,6.0
+United States Grand Prix,1991,Alesi,0.0
+Brazilian Grand Prix,1991,Prost,3.0
+Brazilian Grand Prix,1991,Alesi,1.0
+San Marino Grand Prix,1991,Alesi,0.0
+San Marino Grand Prix,1991,Prost,0.0
+Monaco Grand Prix,1991,Alesi,4.0
+Monaco Grand Prix,1991,Prost,2.0
+Canadian Grand Prix,1991,Alesi,0.0
+Canadian Grand Prix,1991,Prost,0.0
+Mexican Grand Prix,1991,Alesi,0.0
+Mexican Grand Prix,1991,Prost,0.0
+French Grand Prix,1991,Prost,6.0
+French Grand Prix,1991,Alesi,3.0
+British Grand Prix,1991,Prost,4.0
+British Grand Prix,1991,Alesi,0.0
+German Grand Prix,1991,Alesi,4.0
+German Grand Prix,1991,Prost,0.0
+Hungarian Grand Prix,1991,Alesi,2.0
+Hungarian Grand Prix,1991,Prost,0.0
+Belgian Grand Prix,1991,Alesi,0.0
+Belgian Grand Prix,1991,Prost,0.0
+Italian Grand Prix,1991,Prost,4.0
+Italian Grand Prix,1991,Alesi,0.0
+Portuguese Grand Prix,1991,Alesi,4.0
+Portuguese Grand Prix,1991,Prost,0.0
+Spanish Grand Prix,1991,Prost,6.0
+Spanish Grand Prix,1991,Alesi,3.0
+Japanese Grand Prix,1991,Prost,3.0
+Japanese Grand Prix,1991,Alesi,0.0
+Australian Grand Prix,1991,Morbidelli,0.5
+Australian Grand Prix,1991,Alesi,0.0
+United States Grand Prix,1990,Mansell,0.0
+United States Grand Prix,1990,Prost,0.0
+Brazilian Grand Prix,1990,Prost,9.0
+Brazilian Grand Prix,1990,Mansell,3.0
+San Marino Grand Prix,1990,Prost,3.0
+San Marino Grand Prix,1990,Mansell,0.0
+Monaco Grand Prix,1990,Mansell,0.0
+Monaco Grand Prix,1990,Prost,0.0
+Canadian Grand Prix,1990,Mansell,4.0
+Canadian Grand Prix,1990,Prost,2.0
+Mexican Grand Prix,1990,Prost,9.0
+Mexican Grand Prix,1990,Mansell,6.0
+French Grand Prix,1990,Prost,9.0
+French Grand Prix,1990,Mansell,0.0
+British Grand Prix,1990,Prost,9.0
+British Grand Prix,1990,Mansell,0.0
+German Grand Prix,1990,Prost,3.0
+German Grand Prix,1990,Mansell,0.0
+Hungarian Grand Prix,1990,Mansell,0.0
+Hungarian Grand Prix,1990,Prost,0.0
+Belgian Grand Prix,1990,Prost,6.0
+Belgian Grand Prix,1990,Mansell,0.0
+Italian Grand Prix,1990,Prost,6.0
+Italian Grand Prix,1990,Mansell,3.0
+Portuguese Grand Prix,1990,Mansell,9.0
+Portuguese Grand Prix,1990,Prost,4.0
+Spanish Grand Prix,1990,Prost,9.0
+Spanish Grand Prix,1990,Mansell,6.0
+Japanese Grand Prix,1990,Mansell,0.0
+Japanese Grand Prix,1990,Prost,0.0
+Australian Grand Prix,1990,Mansell,6.0
+Australian Grand Prix,1990,Prost,4.0
+Australian Grand Prix,2009,Räikkönen,0.0
+Australian Grand Prix,2009,Massa,0.0
+Malaysian Grand Prix,2009,Massa,0.0
+Malaysian Grand Prix,2009,Räikkönen,0.0
+Chinese Grand Prix,2009,Räikkönen,0.0
+Chinese Grand Prix,2009,Massa,0.0
+Bahrain Grand Prix,2009,Räikkönen,3.0
+Bahrain Grand Prix,2009,Massa,0.0
+Spanish Grand Prix,2009,Massa,3.0
+Spanish Grand Prix,2009,Räikkönen,0.0
+Monaco Grand Prix,2009,Räikkönen,6.0
+Monaco Grand Prix,2009,Massa,5.0
+Turkish Grand Prix,2009,Massa,3.0
+Turkish Grand Prix,2009,Räikkönen,0.0
+British Grand Prix,2009,Massa,5.0
+British Grand Prix,2009,Räikkönen,1.0
+German Grand Prix,2009,Massa,6.0
+German Grand Prix,2009,Räikkönen,0.0
+Hungarian Grand Prix,2009,Räikkönen,8.0
+Hungarian Grand Prix,2009,Massa,0.0
+European Grand Prix,2009,Räikkönen,6.0
+European Grand Prix,2009,Badoer,0.0
+Belgian Grand Prix,2009,Räikkönen,10.0
+Belgian Grand Prix,2009,Badoer,0.0
+Italian Grand Prix,2009,Räikkönen,6.0
+Italian Grand Prix,2009,Fisichella,0.0
+Singapore Grand Prix,2009,Räikkönen,0.0
+Singapore Grand Prix,2009,Fisichella,0.0
+Japanese Grand Prix,2009,Räikkönen,5.0
+Japanese Grand Prix,2009,Fisichella,0.0
+Brazilian Grand Prix,2009,Räikkönen,3.0
+Brazilian Grand Prix,2009,Fisichella,0.0
+Brazilian Grand Prix,1989,Mansell,9.0
+Brazilian Grand Prix,1989,Berger,0.0
+San Marino Grand Prix,1989,Mansell,0.0
+San Marino Grand Prix,1989,Berger,0.0
+Monaco Grand Prix,1989,Mansell,0.0
+Mexican Grand Prix,1989,Mansell,0.0
+Mexican Grand Prix,1989,Berger,0.0
+United States Grand Prix,1989,Berger,0.0
+United States Grand Prix,1989,Mansell,0.0
+Canadian Grand Prix,1989,Berger,0.0
+Canadian Grand Prix,1989,Mansell,0.0
+French Grand Prix,1989,Mansell,6.0
+French Grand Prix,1989,Berger,0.0
+British Grand Prix,1989,Mansell,6.0
+British Grand Prix,1989,Berger,0.0
+German Grand Prix,1989,Mansell,4.0
+German Grand Prix,1989,Berger,0.0
+Hungarian Grand Prix,1989,Mansell,9.0
+Hungarian Grand Prix,1989,Berger,0.0
+Belgian Grand Prix,1989,Mansell,4.0
+Belgian Grand Prix,1989,Berger,0.0
+Italian Grand Prix,1989,Berger,6.0
+Italian Grand Prix,1989,Mansell,0.0
+Portuguese Grand Prix,1989,Berger,9.0
+Portuguese Grand Prix,1989,Mansell,0.0
+Spanish Grand Prix,1989,Berger,6.0
+Japanese Grand Prix,1989,Mansell,0.0
+Japanese Grand Prix,1989,Berger,0.0
+Australian Grand Prix,1989,Mansell,0.0
+Australian Grand Prix,1989,Berger,0.0
+Brazilian Grand Prix,1988,Berger,6.0
+Brazilian Grand Prix,1988,Alboreto,2.0
+San Marino Grand Prix,1988,Berger,2.0
+San Marino Grand Prix,1988,Alboreto,0.0
+Monaco Grand Prix,1988,Berger,6.0
+Monaco Grand Prix,1988,Alboreto,4.0
+Mexican Grand Prix,1988,Berger,4.0
+Mexican Grand Prix,1988,Alboreto,3.0
+Canadian Grand Prix,1988,Alboreto,0.0
+Canadian Grand Prix,1988,Berger,0.0
+Detroit Grand Prix,1988,Alboreto,0.0
+Detroit Grand Prix,1988,Berger,0.0
+French Grand Prix,1988,Alboreto,4.0
+French Grand Prix,1988,Berger,3.0
+British Grand Prix,1988,Berger,0.0
+British Grand Prix,1988,Alboreto,0.0
+German Grand Prix,1988,Berger,4.0
+German Grand Prix,1988,Alboreto,3.0
+Hungarian Grand Prix,1988,Berger,3.0
+Hungarian Grand Prix,1988,Alboreto,0.0
+Belgian Grand Prix,1988,Alboreto,0.0
+Belgian Grand Prix,1988,Berger,0.0
+Italian Grand Prix,1988,Berger,9.0
+Italian Grand Prix,1988,Alboreto,6.0
+Portuguese Grand Prix,1988,Alboreto,2.0
+Portuguese Grand Prix,1988,Berger,0.0
+Spanish Grand Prix,1988,Berger,1.0
+Spanish Grand Prix,1988,Alboreto,0.0
+Japanese Grand Prix,1988,Berger,3.0
+Japanese Grand Prix,1988,Alboreto,0.0
+Australian Grand Prix,1988,Berger,0.0
+Australian Grand Prix,1988,Alboreto,0.0
+Brazilian Grand Prix,1987,Berger,3.0
+Brazilian Grand Prix,1987,Alboreto,0.0
+San Marino Grand Prix,1987,Alboreto,4.0
+San Marino Grand Prix,1987,Berger,0.0
+Belgian Grand Prix,1987,Alboreto,0.0
+Belgian Grand Prix,1987,Berger,0.0
+Monaco Grand Prix,1987,Alboreto,4.0
+Monaco Grand Prix,1987,Berger,3.0
+Detroit Grand Prix,1987,Berger,3.0
+Detroit Grand Prix,1987,Alboreto,0.0
+French Grand Prix,1987,Berger,0.0
+French Grand Prix,1987,Alboreto,0.0
+British Grand Prix,1987,Alboreto,0.0
+British Grand Prix,1987,Berger,0.0
+German Grand Prix,1987,Berger,0.0
+German Grand Prix,1987,Alboreto,0.0
+Hungarian Grand Prix,1987,Alboreto,0.0
+Hungarian Grand Prix,1987,Berger,0.0
+Austrian Grand Prix,1987,Alboreto,0.0
+Austrian Grand Prix,1987,Berger,0.0
+Italian Grand Prix,1987,Berger,3.0
+Italian Grand Prix,1987,Alboreto,0.0
+Portuguese Grand Prix,1987,Berger,6.0
+Portuguese Grand Prix,1987,Alboreto,0.0
+Spanish Grand Prix,1987,Alboreto,0.0
+Spanish Grand Prix,1987,Berger,0.0
+Mexican Grand Prix,1987,Berger,0.0
+Mexican Grand Prix,1987,Alboreto,0.0
+Japanese Grand Prix,1987,Berger,9.0
+Japanese Grand Prix,1987,Alboreto,3.0
+Australian Grand Prix,1987,Berger,9.0
+Australian Grand Prix,1987,Alboreto,6.0
+Brazilian Grand Prix,1986,Alboreto,0.0
+Brazilian Grand Prix,1986,Johansson,0.0
+Spanish Grand Prix,1986,Alboreto,0.0
+Spanish Grand Prix,1986,Johansson,0.0
+San Marino Grand Prix,1986,Johansson,3.0
+San Marino Grand Prix,1986,Alboreto,0.0
+Monaco Grand Prix,1986,Johansson,0.0
+Monaco Grand Prix,1986,Alboreto,0.0
+Belgian Grand Prix,1986,Johansson,4.0
+Belgian Grand Prix,1986,Alboreto,3.0
+Canadian Grand Prix,1986,Alboreto,0.0
+Canadian Grand Prix,1986,Johansson,0.0
+Detroit Grand Prix,1986,Alboreto,3.0
+Detroit Grand Prix,1986,Johansson,0.0
+French Grand Prix,1986,Alboreto,0.0
+French Grand Prix,1986,Johansson,0.0
+British Grand Prix,1986,Alboreto,0.0
+British Grand Prix,1986,Johansson,0.0
+German Grand Prix,1986,Johansson,0.0
+German Grand Prix,1986,Alboreto,0.0
+Hungarian Grand Prix,1986,Johansson,3.0
+Hungarian Grand Prix,1986,Alboreto,0.0
+Austrian Grand Prix,1986,Alboreto,6.0
+Austrian Grand Prix,1986,Johansson,4.0
+Italian Grand Prix,1986,Johansson,4.0
+Italian Grand Prix,1986,Alboreto,0.0
+Portuguese Grand Prix,1986,Alboreto,2.0
+Portuguese Grand Prix,1986,Johansson,1.0
+Mexican Grand Prix,1986,Johansson,0.0
+Mexican Grand Prix,1986,Alboreto,0.0
+Australian Grand Prix,1986,Johansson,4.0
+Australian Grand Prix,1986,Alboreto,0.0
+Brazilian Grand Prix,1985,Alboreto,6.0
+Brazilian Grand Prix,1985,Arnoux,3.0
+Portuguese Grand Prix,1985,Alboreto,6.0
+Portuguese Grand Prix,1985,Johansson,0.0
+San Marino Grand Prix,1985,Johansson,1.0
+San Marino Grand Prix,1985,Alboreto,0.0
+Monaco Grand Prix,1985,Alboreto,6.0
+Monaco Grand Prix,1985,Johansson,0.0
+Canadian Grand Prix,1985,Alboreto,9.0
+Canadian Grand Prix,1985,Johansson,6.0
+Detroit Grand Prix,1985,Johansson,6.0
+Detroit Grand Prix,1985,Alboreto,4.0
+French Grand Prix,1985,Johansson,3.0
+French Grand Prix,1985,Alboreto,0.0
+British Grand Prix,1985,Alboreto,6.0
+British Grand Prix,1985,Johansson,0.0
+German Grand Prix,1985,Alboreto,9.0
+German Grand Prix,1985,Johansson,0.0
+Austrian Grand Prix,1985,Alboreto,4.0
+Austrian Grand Prix,1985,Johansson,3.0
+Dutch Grand Prix,1985,Alboreto,3.0
+Dutch Grand Prix,1985,Johansson,0.0
+Italian Grand Prix,1985,Johansson,2.0
+Italian Grand Prix,1985,Alboreto,0.0
+Belgian Grand Prix,1985,Johansson,0.0
+Belgian Grand Prix,1985,Alboreto,0.0
+European Grand Prix,1985,Johansson,0.0
+European Grand Prix,1985,Alboreto,0.0
+South African Grand Prix,1985,Johansson,3.0
+South African Grand Prix,1985,Alboreto,0.0
+Australian Grand Prix,1985,Johansson,2.0
+Australian Grand Prix,1985,Alboreto,0.0
+Brazilian Grand Prix,1984,Arnoux,0.0
+Brazilian Grand Prix,1984,Alboreto,0.0
+South African Grand Prix,1984,Alboreto,0.0
+South African Grand Prix,1984,Arnoux,0.0
+Belgian Grand Prix,1984,Alboreto,9.0
+Belgian Grand Prix,1984,Arnoux,4.0
+San Marino Grand Prix,1984,Arnoux,6.0
+San Marino Grand Prix,1984,Alboreto,0.0
+French Grand Prix,1984,Arnoux,3.0
+French Grand Prix,1984,Alboreto,0.0
+Monaco Grand Prix,1984,Arnoux,2.0
+Monaco Grand Prix,1984,Alboreto,0.5
+Canadian Grand Prix,1984,Arnoux,2.0
+Canadian Grand Prix,1984,Alboreto,0.0
+Detroit Grand Prix,1984,Alboreto,0.0
+Detroit Grand Prix,1984,Arnoux,0.0
+Dallas Grand Prix,1984,Arnoux,6.0
+Dallas Grand Prix,1984,Alboreto,0.0
+British Grand Prix,1984,Alboreto,2.0
+British Grand Prix,1984,Arnoux,1.0
+German Grand Prix,1984,Arnoux,1.0
+German Grand Prix,1984,Alboreto,0.0
+Austrian Grand Prix,1984,Alboreto,4.0
+Austrian Grand Prix,1984,Arnoux,0.0
+Dutch Grand Prix,1984,Arnoux,0.0
+Dutch Grand Prix,1984,Alboreto,0.0
+Italian Grand Prix,1984,Alboreto,6.0
+Italian Grand Prix,1984,Arnoux,0.0
+European Grand Prix,1984,Alboreto,6.0
+European Grand Prix,1984,Arnoux,2.0
+Portuguese Grand Prix,1984,Alboreto,3.0
+Portuguese Grand Prix,1984,Arnoux,0.0
+Brazilian Grand Prix,1983,Tambay,2.0
+Brazilian Grand Prix,1983,Arnoux,0.0
+United States Grand Prix West,1983,Arnoux,4.0
+United States Grand Prix West,1983,Tambay,0.0
+French Grand Prix,1983,Tambay,3.0
+French Grand Prix,1983,Arnoux,0.0
+San Marino Grand Prix,1983,Tambay,9.0
+San Marino Grand Prix,1983,Arnoux,4.0
+Monaco Grand Prix,1983,Tambay,3.0
+Monaco Grand Prix,1983,Arnoux,0.0
+Belgian Grand Prix,1983,Tambay,6.0
+Belgian Grand Prix,1983,Arnoux,0.0
+Detroit Grand Prix,1983,Arnoux,0.0
+Detroit Grand Prix,1983,Tambay,0.0
+Canadian Grand Prix,1983,Arnoux,9.0
+Canadian Grand Prix,1983,Tambay,4.0
+British Grand Prix,1983,Tambay,4.0
+British Grand Prix,1983,Arnoux,2.0
+German Grand Prix,1983,Arnoux,9.0
+German Grand Prix,1983,Tambay,0.0
+Austrian Grand Prix,1983,Arnoux,6.0
+Austrian Grand Prix,1983,Tambay,0.0
+Dutch Grand Prix,1983,Arnoux,9.0
+Dutch Grand Prix,1983,Tambay,6.0
+Italian Grand Prix,1983,Arnoux,6.0
+Italian Grand Prix,1983,Tambay,3.0
+European Grand Prix,1983,Arnoux,0.0
+European Grand Prix,1983,Tambay,0.0
+South African Grand Prix,1983,Tambay,0.0
+South African Grand Prix,1983,Arnoux,0.0
+South African Grand Prix,1982,Pironi,0.0
+South African Grand Prix,1982,Villeneuve,0.0
+Brazilian Grand Prix,1982,Pironi,1.0
+Brazilian Grand Prix,1982,Villeneuve,0.0
+United States Grand Prix West,1982,Villeneuve,0.0
+United States Grand Prix West,1982,Pironi,0.0
+San Marino Grand Prix,1982,Pironi,9.0
+San Marino Grand Prix,1982,Villeneuve,6.0
+Belgian Grand Prix,1982,Pironi,0.0
+Belgian Grand Prix,1982,Villeneuve,0.0
+Monaco Grand Prix,1982,Pironi,6.0
+Detroit Grand Prix,1982,Pironi,4.0
+Canadian Grand Prix,1982,Pironi,0.0
+Dutch Grand Prix,1982,Pironi,9.0
+Dutch Grand Prix,1982,Tambay,0.0
+British Grand Prix,1982,Pironi,6.0
+British Grand Prix,1982,Tambay,4.0
+French Grand Prix,1982,Pironi,4.0
+French Grand Prix,1982,Tambay,3.0
+German Grand Prix,1982,Tambay,9.0
+German Grand Prix,1982,Pironi,0.0
+Austrian Grand Prix,1982,Tambay,3.0
+Swiss Grand Prix,1982,Tambay,0.0
+Italian Grand Prix,1982,Tambay,6.0
+Italian Grand Prix,1982,Andretti,4.0
+Caesars Palace Grand Prix,1982,Andretti,0.0
+Caesars Palace Grand Prix,1982,Tambay,0.0
+United States Grand Prix West,1981,Pironi,0.0
+United States Grand Prix West,1981,Villeneuve,0.0
+Brazilian Grand Prix,1981,Villeneuve,0.0
+Brazilian Grand Prix,1981,Pironi,0.0
+Argentine Grand Prix,1981,Villeneuve,0.0
+Argentine Grand Prix,1981,Pironi,0.0
+San Marino Grand Prix,1981,Pironi,2.0
+San Marino Grand Prix,1981,Villeneuve,0.0
+Belgian Grand Prix,1981,Villeneuve,3.0
+Belgian Grand Prix,1981,Pironi,0.0
+Monaco Grand Prix,1981,Villeneuve,9.0
+Monaco Grand Prix,1981,Pironi,3.0
+Spanish Grand Prix,1981,Villeneuve,9.0
+Spanish Grand Prix,1981,Pironi,0.0
+French Grand Prix,1981,Pironi,2.0
+French Grand Prix,1981,Villeneuve,0.0
+British Grand Prix,1981,Pironi,0.0
+British Grand Prix,1981,Villeneuve,0.0
+German Grand Prix,1981,Villeneuve,0.0
+German Grand Prix,1981,Pironi,0.0
+Austrian Grand Prix,1981,Pironi,0.0
+Austrian Grand Prix,1981,Villeneuve,0.0
+Dutch Grand Prix,1981,Pironi,0.0
+Dutch Grand Prix,1981,Villeneuve,0.0
+Italian Grand Prix,1981,Pironi,2.0
+Italian Grand Prix,1981,Villeneuve,0.0
+Canadian Grand Prix,1981,Villeneuve,4.0
+Canadian Grand Prix,1981,Pironi,0.0
+Caesars Palace Grand Prix,1981,Pironi,0.0
+Caesars Palace Grand Prix,1981,Villeneuve,0.0
+Argentine Grand Prix,1980,Scheckter,0.0
+Argentine Grand Prix,1980,Villeneuve,0.0
+Brazilian Grand Prix,1980,Villeneuve,0.0
+Brazilian Grand Prix,1980,Scheckter,0.0
+South African Grand Prix,1980,Villeneuve,0.0
+South African Grand Prix,1980,Scheckter,0.0
+United States Grand Prix West,1980,Scheckter,2.0
+United States Grand Prix West,1980,Villeneuve,0.0
+Belgian Grand Prix,1980,Villeneuve,1.0
+Belgian Grand Prix,1980,Scheckter,0.0
+Monaco Grand Prix,1980,Villeneuve,2.0
+Monaco Grand Prix,1980,Scheckter,0.0
+French Grand Prix,1980,Villeneuve,0.0
+French Grand Prix,1980,Scheckter,0.0
+British Grand Prix,1980,Scheckter,0.0
+British Grand Prix,1980,Villeneuve,0.0
+German Grand Prix,1980,Villeneuve,1.0
+German Grand Prix,1980,Scheckter,0.0
+Austrian Grand Prix,1980,Villeneuve,0.0
+Austrian Grand Prix,1980,Scheckter,0.0
+Dutch Grand Prix,1980,Villeneuve,0.0
+Dutch Grand Prix,1980,Scheckter,0.0
+Italian Grand Prix,1980,Scheckter,0.0
+Italian Grand Prix,1980,Villeneuve,0.0
+Canadian Grand Prix,1980,Villeneuve,2.0
+Canadian Grand Prix,1980,Scheckter,0.0
+United States Grand Prix,1980,Scheckter,0.0
+United States Grand Prix,1980,Villeneuve,0.0
+Argentine Grand Prix,1979,Villeneuve,0.0
+Argentine Grand Prix,1979,Scheckter,0.0
+Brazilian Grand Prix,1979,Villeneuve,2.0
+Brazilian Grand Prix,1979,Scheckter,1.0
+South African Grand Prix,1979,Villeneuve,9.0
+South African Grand Prix,1979,Scheckter,6.0
+United States Grand Prix West,1979,Villeneuve,9.0
+United States Grand Prix West,1979,Scheckter,6.0
+Spanish Grand Prix,1979,Scheckter,3.0
+Spanish Grand Prix,1979,Villeneuve,0.0
+Belgian Grand Prix,1979,Scheckter,9.0
+Belgian Grand Prix,1979,Villeneuve,0.0
+Monaco Grand Prix,1979,Scheckter,9.0
+Monaco Grand Prix,1979,Villeneuve,0.0
+French Grand Prix,1979,Villeneuve,6.0
+French Grand Prix,1979,Scheckter,0.0
+British Grand Prix,1979,Scheckter,2.0
+British Grand Prix,1979,Villeneuve,0.0
+German Grand Prix,1979,Scheckter,3.0
+German Grand Prix,1979,Villeneuve,0.0
+Austrian Grand Prix,1979,Villeneuve,6.0
+Austrian Grand Prix,1979,Scheckter,3.0
+Dutch Grand Prix,1979,Scheckter,6.0
+Dutch Grand Prix,1979,Villeneuve,0.0
+Italian Grand Prix,1979,Scheckter,9.0
+Italian Grand Prix,1979,Villeneuve,6.0
+Canadian Grand Prix,1979,Villeneuve,6.0
+Canadian Grand Prix,1979,Scheckter,3.0
+United States Grand Prix,1979,Villeneuve,9.0
+United States Grand Prix,1979,Scheckter,0.0
+Argentine Grand Prix,1978,Reutemann,0.0
+Argentine Grand Prix,1978,Villeneuve,0.0
+Brazilian Grand Prix,1978,Reutemann,9.0
+Brazilian Grand Prix,1978,Villeneuve,0.0
+South African Grand Prix,1978,Villeneuve,0.0
+South African Grand Prix,1978,Reutemann,0.0
+United States Grand Prix West,1978,Reutemann,9.0
+United States Grand Prix West,1978,Villeneuve,0.0
+Monaco Grand Prix,1978,Reutemann,0.0
+Monaco Grand Prix,1978,Villeneuve,0.0
+Belgian Grand Prix,1978,Reutemann,4.0
+Belgian Grand Prix,1978,Villeneuve,3.0
+Spanish Grand Prix,1978,Villeneuve,0.0
+Spanish Grand Prix,1978,Reutemann,0.0
+Swedish Grand Prix,1978,Villeneuve,0.0
+Swedish Grand Prix,1978,Reutemann,0.0
+French Grand Prix,1978,Villeneuve,0.0
+French Grand Prix,1978,Reutemann,0.0
+British Grand Prix,1978,Reutemann,9.0
+British Grand Prix,1978,Villeneuve,0.0
+German Grand Prix,1978,Villeneuve,0.0
+German Grand Prix,1978,Reutemann,0.0
+Austrian Grand Prix,1978,Villeneuve,4.0
+Austrian Grand Prix,1978,Reutemann,0.0
+Dutch Grand Prix,1978,Villeneuve,1.0
+Dutch Grand Prix,1978,Reutemann,0.0
+Italian Grand Prix,1978,Reutemann,4.0
+Italian Grand Prix,1978,Villeneuve,0.0
+United States Grand Prix,1978,Reutemann,9.0
+United States Grand Prix,1978,Villeneuve,0.0
+Canadian Grand Prix,1978,Villeneuve,9.0
+Canadian Grand Prix,1978,Reutemann,4.0
+Argentine Grand Prix,1977,Reutemann,4.0
+Argentine Grand Prix,1977,Lauda,0.0
+Brazilian Grand Prix,1977,Reutemann,9.0
+Brazilian Grand Prix,1977,Lauda,4.0
+South African Grand Prix,1977,Lauda,9.0
+South African Grand Prix,1977,Reutemann,0.0
+United States Grand Prix West,1977,Lauda,6.0
+United States Grand Prix West,1977,Reutemann,0.0
+Spanish Grand Prix,1977,Reutemann,6.0
+Spanish Grand Prix,1977,Lauda,0.0
+Monaco Grand Prix,1977,Lauda,6.0
+Monaco Grand Prix,1977,Reutemann,4.0
+Belgian Grand Prix,1977,Lauda,6.0
+Belgian Grand Prix,1977,Reutemann,0.0
+Swedish Grand Prix,1977,Reutemann,4.0
+Swedish Grand Prix,1977,Lauda,0.0
+French Grand Prix,1977,Lauda,2.0
+French Grand Prix,1977,Reutemann,1.0
+British Grand Prix,1977,Lauda,6.0
+British Grand Prix,1977,Reutemann,0.0
+German Grand Prix,1977,Lauda,9.0
+German Grand Prix,1977,Reutemann,3.0
+Austrian Grand Prix,1977,Lauda,6.0
+Austrian Grand Prix,1977,Reutemann,3.0
+Dutch Grand Prix,1977,Lauda,9.0
+Dutch Grand Prix,1977,Reutemann,1.0
+Italian Grand Prix,1977,Lauda,6.0
+Italian Grand Prix,1977,Reutemann,0.0
+United States Grand Prix,1977,Lauda,3.0
+United States Grand Prix,1977,Reutemann,1.0
+Canadian Grand Prix,1977,Villeneuve,0.0
+Canadian Grand Prix,1977,Reutemann,0.0
+Japanese Grand Prix,1977,Reutemann,6.0
+Japanese Grand Prix,1977,Villeneuve,0.0
+Brazilian Grand Prix,1976,Lauda,9.0
+Brazilian Grand Prix,1976,Regazzoni,0.0
+South African Grand Prix,1976,Lauda,9.0
+South African Grand Prix,1976,Regazzoni,0.0
+United States Grand Prix West,1976,Regazzoni,9.0
+United States Grand Prix West,1976,Lauda,6.0
+Spanish Grand Prix,1976,Lauda,6.0
+Spanish Grand Prix,1976,Regazzoni,0.0
+Belgian Grand Prix,1976,Lauda,9.0
+Belgian Grand Prix,1976,Regazzoni,6.0
+Monaco Grand Prix,1976,Lauda,9.0
+Monaco Grand Prix,1976,Regazzoni,0.0
+Swedish Grand Prix,1976,Lauda,4.0
+Swedish Grand Prix,1976,Regazzoni,1.0
+French Grand Prix,1976,Regazzoni,0.0
+French Grand Prix,1976,Lauda,0.0
+British Grand Prix,1976,Lauda,9.0
+British Grand Prix,1976,Regazzoni,0.0
+German Grand Prix,1976,Regazzoni,0.0
+German Grand Prix,1976,Lauda,0.0
+Dutch Grand Prix,1976,Regazzoni,6.0
+Italian Grand Prix,1976,Regazzoni,6.0
+Italian Grand Prix,1976,Lauda,3.0
+Italian Grand Prix,1976,Reutemann,0.0
+Canadian Grand Prix,1976,Regazzoni,1.0
+Canadian Grand Prix,1976,Lauda,0.0
+United States Grand Prix,1976,Lauda,4.0
+United States Grand Prix,1976,Regazzoni,0.0
+Japanese Grand Prix,1976,Regazzoni,2.0
+Japanese Grand Prix,1976,Lauda,0.0
+Argentine Grand Prix,1975,Regazzoni,3.0
+Argentine Grand Prix,1975,Lauda,1.0
+Brazilian Grand Prix,1975,Regazzoni,3.0
+Brazilian Grand Prix,1975,Lauda,2.0
+South African Grand Prix,1975,Lauda,2.0
+South African Grand Prix,1975,Regazzoni,0.0
+Spanish Grand Prix,1975,Regazzoni,0.0
+Spanish Grand Prix,1975,Lauda,0.0
+Monaco Grand Prix,1975,Lauda,9.0
+Monaco Grand Prix,1975,Regazzoni,0.0
+Belgian Grand Prix,1975,Lauda,9.0
+Belgian Grand Prix,1975,Regazzoni,2.0
+Swedish Grand Prix,1975,Lauda,9.0
+Swedish Grand Prix,1975,Regazzoni,4.0
+Dutch Grand Prix,1975,Lauda,6.0
+Dutch Grand Prix,1975,Regazzoni,4.0
+French Grand Prix,1975,Lauda,9.0
+French Grand Prix,1975,Regazzoni,0.0
+British Grand Prix,1975,Lauda,0.0
+British Grand Prix,1975,Regazzoni,0.0
+German Grand Prix,1975,Lauda,4.0
+German Grand Prix,1975,Regazzoni,0.0
+Austrian Grand Prix,1975,Lauda,0.5
+Austrian Grand Prix,1975,Regazzoni,0.0
+Italian Grand Prix,1975,Regazzoni,9.0
+Italian Grand Prix,1975,Lauda,4.0
+United States Grand Prix,1975,Lauda,9.0
+United States Grand Prix,1975,Regazzoni,0.0
+Argentine Grand Prix,1974,Lauda,6.0
+Argentine Grand Prix,1974,Regazzoni,4.0
+Brazilian Grand Prix,1974,Regazzoni,6.0
+Brazilian Grand Prix,1974,Lauda,0.0
+South African Grand Prix,1974,Lauda,0.0
+South African Grand Prix,1974,Regazzoni,0.0
+Spanish Grand Prix,1974,Lauda,9.0
+Spanish Grand Prix,1974,Regazzoni,6.0
+Belgian Grand Prix,1974,Lauda,6.0
+Belgian Grand Prix,1974,Regazzoni,3.0
+Monaco Grand Prix,1974,Regazzoni,3.0
+Monaco Grand Prix,1974,Lauda,0.0
+Swedish Grand Prix,1974,Lauda,0.0
+Swedish Grand Prix,1974,Regazzoni,0.0
+Dutch Grand Prix,1974,Lauda,9.0
+Dutch Grand Prix,1974,Regazzoni,6.0
+French Grand Prix,1974,Lauda,6.0
+French Grand Prix,1974,Regazzoni,4.0
+British Grand Prix,1974,Regazzoni,3.0
+British Grand Prix,1974,Lauda,2.0
+German Grand Prix,1974,Regazzoni,9.0
+German Grand Prix,1974,Lauda,0.0
+Austrian Grand Prix,1974,Regazzoni,2.0
+Austrian Grand Prix,1974,Lauda,0.0
+Italian Grand Prix,1974,Regazzoni,0.0
+Italian Grand Prix,1974,Lauda,0.0
+Canadian Grand Prix,1974,Regazzoni,6.0
+Canadian Grand Prix,1974,Lauda,0.0
+United States Grand Prix,1974,Regazzoni,0.0
+United States Grand Prix,1974,Lauda,0.0
+Argentine Grand Prix,1973,Ickx,3.0
+Argentine Grand Prix,1973,Merzario,0.0
+Brazilian Grand Prix,1973,Merzario,3.0
+Brazilian Grand Prix,1973,Ickx,2.0
+South African Grand Prix,1973,Merzario,3.0
+South African Grand Prix,1973,Ickx,0.0
+Spanish Grand Prix,1973,Ickx,0.0
+Belgian Grand Prix,1973,Ickx,0.0
+Monaco Grand Prix,1973,Merzario,0.0
+Monaco Grand Prix,1973,Ickx,0.0
+Swedish Grand Prix,1973,Ickx,1.0
+French Grand Prix,1973,Ickx,2.0
+French Grand Prix,1973,Merzario,0.0
+British Grand Prix,1973,Ickx,0.0
+Austrian Grand Prix,1973,Merzario,0.0
+Italian Grand Prix,1973,Ickx,0.0
+Italian Grand Prix,1973,Merzario,0.0
+Canadian Grand Prix,1973,Merzario,0.0
+United States Grand Prix,1973,Merzario,0.0
+Argentine Grand Prix,1972,Ickx,4.0
+Argentine Grand Prix,1972,Regazzoni,3.0
+Argentine Grand Prix,1972,Andretti,0.0
+South African Grand Prix,1972,Andretti,3.0
+South African Grand Prix,1972,Ickx,0.0
+South African Grand Prix,1972,Regazzoni,0.0
+Spanish Grand Prix,1972,Ickx,6.0
+Spanish Grand Prix,1972,Regazzoni,4.0
+Spanish Grand Prix,1972,Andretti,0.0
+Monaco Grand Prix,1972,Ickx,6.0
+Monaco Grand Prix,1972,Regazzoni,0.0
+Belgian Grand Prix,1972,Regazzoni,0.0
+Belgian Grand Prix,1972,Ickx,0.0
+French Grand Prix,1972,Ickx,0.0
+French Grand Prix,1972,Galli,0.0
+British Grand Prix,1972,Merzario,1.0
+British Grand Prix,1972,Ickx,0.0
+German Grand Prix,1972,Ickx,9.0
+German Grand Prix,1972,Regazzoni,6.0
+German Grand Prix,1972,Merzario,0.0
+Austrian Grand Prix,1972,Ickx,0.0
+Austrian Grand Prix,1972,Regazzoni,0.0
+Italian Grand Prix,1972,Andretti,0.0
+Italian Grand Prix,1972,Ickx,0.0
+Italian Grand Prix,1972,Regazzoni,0.0
+Canadian Grand Prix,1972,Regazzoni,2.0
+Canadian Grand Prix,1972,Ickx,0.0
+United States Grand Prix,1972,Ickx,2.0
+United States Grand Prix,1972,Andretti,1.0
+United States Grand Prix,1972,Regazzoni,0.0
+South African Grand Prix,1971,Andretti,9.0
+South African Grand Prix,1971,Regazzoni,4.0
+South African Grand Prix,1971,Ickx,0.0
+Spanish Grand Prix,1971,Ickx,6.0
+Spanish Grand Prix,1971,Andretti,0.0
+Spanish Grand Prix,1971,Regazzoni,0.0
+Monaco Grand Prix,1971,Ickx,4.0
+Monaco Grand Prix,1971,Regazzoni,0.0
+Monaco Grand Prix,1971,Andretti,0.0
+Dutch Grand Prix,1971,Ickx,9.0
+Dutch Grand Prix,1971,Regazzoni,4.0
+Dutch Grand Prix,1971,Andretti,0.0
+French Grand Prix,1971,Regazzoni,0.0
+French Grand Prix,1971,Ickx,0.0
+British Grand Prix,1971,Ickx,0.0
+British Grand Prix,1971,Regazzoni,0.0
+German Grand Prix,1971,Regazzoni,4.0
+German Grand Prix,1971,Andretti,3.0
+German Grand Prix,1971,Ickx,0.0
+Austrian Grand Prix,1971,Ickx,0.0
+Austrian Grand Prix,1971,Regazzoni,0.0
+Italian Grand Prix,1971,Regazzoni,0.0
+Italian Grand Prix,1971,Ickx,0.0
+Canadian Grand Prix,1971,Ickx,0.0
+Canadian Grand Prix,1971,Andretti,0.0
+Canadian Grand Prix,1971,Regazzoni,0.0
+United States Grand Prix,1971,Regazzoni,1.0
+United States Grand Prix,1971,Ickx,0.0
+South African Grand Prix,1970,Ickx,0.0
+Spanish Grand Prix,1970,Ickx,0.0
+Monaco Grand Prix,1970,Ickx,0.0
+Belgian Grand Prix,1970,Giunti,3.0
+Belgian Grand Prix,1970,Ickx,0.0
+Dutch Grand Prix,1970,Ickx,4.0
+Dutch Grand Prix,1970,Regazzoni,3.0
+French Grand Prix,1970,Giunti,0.0
+French Grand Prix,1970,Ickx,0.0
+British Grand Prix,1970,Regazzoni,3.0
+British Grand Prix,1970,Ickx,0.0
+German Grand Prix,1970,Ickx,6.0
+German Grand Prix,1970,Regazzoni,0.0
+Abu Dhabi Grand Prix,2009,Räikkönen,0.0
+Abu Dhabi Grand Prix,2009,Fisichella,0.0
+Austrian Grand Prix,1970,Ickx,9.0
+Austrian Grand Prix,1970,Regazzoni,6.0
+Austrian Grand Prix,1970,Giunti,0.0
+Italian Grand Prix,1970,Regazzoni,9.0
+Italian Grand Prix,1970,Ickx,0.0
+Italian Grand Prix,1970,Giunti,0.0
+Canadian Grand Prix,1970,Ickx,9.0
+Canadian Grand Prix,1970,Regazzoni,6.0
+United States Grand Prix,1970,Ickx,3.0
+United States Grand Prix,1970,Regazzoni,0.0
+Mexican Grand Prix,1970,Ickx,9.0
+Mexican Grand Prix,1970,Regazzoni,6.0
+South African Grand Prix,1969,Amon,0.0
+Spanish Grand Prix,1969,Amon,0.0
+Monaco Grand Prix,1969,Amon,0.0
+Dutch Grand Prix,1969,Amon,4.0
+French Grand Prix,1969,Amon,0.0
+British Grand Prix,1969,Rodríguez,0.0
+British Grand Prix,1969,Amon,0.0
+Italian Grand Prix,1969,Rodríguez,1.0
+Canadian Grand Prix,1969,Rodríguez,0.0
+United States Grand Prix,1969,Rodríguez,2.0
+Mexican Grand Prix,1969,Rodríguez,0.0
+South African Grand Prix,1968,Amon,3.0
+South African Grand Prix,1968,Ickx,0.0
+South African Grand Prix,1968,de Adamich,0.0
+Spanish Grand Prix,1968,Amon,0.0
+Spanish Grand Prix,1968,Ickx,0.0
+Belgian Grand Prix,1968,Ickx,4.0
+Belgian Grand Prix,1968,Amon,0.0
+Dutch Grand Prix,1968,Ickx,3.0
+Dutch Grand Prix,1968,Amon,1.0
+French Grand Prix,1968,Ickx,9.0
+French Grand Prix,1968,Amon,0.0
+British Grand Prix,1968,Amon,6.0
+British Grand Prix,1968,Ickx,4.0
+German Grand Prix,1968,Ickx,3.0
+German Grand Prix,1968,Amon,0.0
+Italian Grand Prix,1968,Ickx,4.0
+Italian Grand Prix,1968,Amon,0.0
+Italian Grand Prix,1968,Bell,0.0
+Canadian Grand Prix,1968,Amon,0.0
+Canadian Grand Prix,1968,Ickx,0.0
+United States Grand Prix,1968,Amon,0.0
+United States Grand Prix,1968,Bell,0.0
+Mexican Grand Prix,1968,Amon,0.0
+Mexican Grand Prix,1968,Ickx,0.0
+Monaco Grand Prix,1967,Amon,4.0
+Monaco Grand Prix,1967,Bandini,0.0
+Dutch Grand Prix,1967,Amon,3.0
+Dutch Grand Prix,1967,Parkes,2.0
+Dutch Grand Prix,1967,Scarfiotti,1.0
+Belgian Grand Prix,1967,Amon,4.0
+Belgian Grand Prix,1967,Scarfiotti,0.0
+Belgian Grand Prix,1967,Parkes,0.0
+French Grand Prix,1967,Amon,0.0
+British Grand Prix,1967,Amon,4.0
+German Grand Prix,1967,Amon,4.0
+Canadian Grand Prix,1967,Amon,1.0
+Italian Grand Prix,1967,Amon,0.0
+United States Grand Prix,1967,Amon,0.0
+Mexican Grand Prix,1967,Williams,0.0
+Mexican Grand Prix,1967,Amon,0.0
+Monaco Grand Prix,1966,Bandini,6.0
+Monaco Grand Prix,1966,Surtees,0.0
+Belgian Grand Prix,1966,Surtees,9.0
+Belgian Grand Prix,1966,Bandini,4.0
+French Grand Prix,1966,Parkes,6.0
+French Grand Prix,1966,Bandini,0.0
+Dutch Grand Prix,1966,Bandini,1.0
+Dutch Grand Prix,1966,Parkes,0.0
+German Grand Prix,1966,Bandini,1.0
+German Grand Prix,1966,Scarfiotti,0.0
+German Grand Prix,1966,Parkes,0.0
+Italian Grand Prix,1966,Scarfiotti,9.0
+Italian Grand Prix,1966,Parkes,6.0
+Italian Grand Prix,1966,Baghetti,0.0
+Italian Grand Prix,1966,Bandini,0.0
+United States Grand Prix,1966,Bandini,0.0
+South African Grand Prix,1965,Surtees,6.0
+South African Grand Prix,1965,Bandini,0.0
+Monaco Grand Prix,1965,Bandini,6.0
+Monaco Grand Prix,1965,Surtees,3.0
+Belgian Grand Prix,1965,Bandini,0.0
+Belgian Grand Prix,1965,Surtees,0.0
+French Grand Prix,1965,Surtees,4.0
+French Grand Prix,1965,Bandini,0.0
+British Grand Prix,1965,Surtees,4.0
+British Grand Prix,1965,Bandini,0.0
+Dutch Grand Prix,1965,Surtees,0.0
+Dutch Grand Prix,1965,Bandini,0.0
+German Grand Prix,1965,Bandini,1.0
+German Grand Prix,1965,Surtees,0.0
+Italian Grand Prix,1965,Bandini,3.0
+Italian Grand Prix,1965,Vaccarella,0.0
+Italian Grand Prix,1965,Surtees,0.0
+United States Grand Prix,1965,Bandini,3.0
+United States Grand Prix,1965,Rodríguez,2.0
+United States Grand Prix,1965,Bondurant,0.0
+Mexican Grand Prix,1965,Rodríguez,0.0
+Mexican Grand Prix,1965,Bandini,0.0
+Mexican Grand Prix,1965,Scarfiotti,0.0
+Monaco Grand Prix,1964,Bandini,0.0
+Monaco Grand Prix,1964,Surtees,0.0
+Dutch Grand Prix,1964,Surtees,6.0
+Dutch Grand Prix,1964,Bandini,0.0
+Belgian Grand Prix,1964,Bandini,0.0
+Belgian Grand Prix,1964,Surtees,0.0
+French Grand Prix,1964,Bandini,0.0
+French Grand Prix,1964,Surtees,0.0
+British Grand Prix,1964,Surtees,4.0
+British Grand Prix,1964,Bandini,2.0
+German Grand Prix,1964,Surtees,9.0
+German Grand Prix,1964,Bandini,4.0
+Austrian Grand Prix,1964,Bandini,9.0
+Austrian Grand Prix,1964,Surtees,0.0
+Italian Grand Prix,1964,Surtees,9.0
+Italian Grand Prix,1964,Bandini,4.0
+Italian Grand Prix,1964,Scarfiotti,0.0
+United States Grand Prix,1964,Surtees,6.0
+United States Grand Prix,1964,Bandini,0.0
+Mexican Grand Prix,1964,Surtees,6.0
+Mexican Grand Prix,1964,Bandini,4.0
+Mexican Grand Prix,1964,Rodríguez,1.0
+Monaco Grand Prix,1963,Surtees,3.0
+Monaco Grand Prix,1963,Mairesse,0.0
+Belgian Grand Prix,1963,Surtees,0.0
+Belgian Grand Prix,1963,Mairesse,0.0
+Belgian Grand Prix,1963,Scarfiotti,0.0
+Dutch Grand Prix,1963,Surtees,4.0
+Dutch Grand Prix,1963,Scarfiotti,1.0
+French Grand Prix,1963,Surtees,0.0
+French Grand Prix,1963,Scarfiotti,0.0
+British Grand Prix,1963,Surtees,6.0
+German Grand Prix,1963,Surtees,9.0
+German Grand Prix,1963,Mairesse,0.0
+Italian Grand Prix,1963,Bandini,0.0
+Italian Grand Prix,1963,Surtees,0.0
+United States Grand Prix,1963,Bandini,2.0
+United States Grand Prix,1963,Surtees,0.0
+Mexican Grand Prix,1963,Bandini,0.0
+Mexican Grand Prix,1963,Surtees,0.0
+Dutch Grand Prix,1962,Hill,4.0
+Dutch Grand Prix,1962,Baghetti,3.0
+Dutch Grand Prix,1962,Rodríguez,0.0
+Monaco Grand Prix,1962,Hill,6.0
+Monaco Grand Prix,1962,Bandini,4.0
+Monaco Grand Prix,1962,Mairesse,0.0
+Monaco Grand Prix,1962,Rodríguez,0.0
+Belgian Grand Prix,1962,Hill,4.0
+Belgian Grand Prix,1962,Rodríguez,3.0
+Belgian Grand Prix,1962,Mairesse,0.0
+Belgian Grand Prix,1962,Baghetti,0.0
+British Grand Prix,1962,Hill,0.0
+German Grand Prix,1962,Rodríguez,1.0
+German Grand Prix,1962,Baghetti,0.0
+German Grand Prix,1962,Hill,0.0
+German Grand Prix,1962,Bandini,0.0
+Italian Grand Prix,1962,Mairesse,3.0
+Italian Grand Prix,1962,Baghetti,2.0
+Italian Grand Prix,1962,Bandini,0.0
+Italian Grand Prix,1962,Hill,0.0
+Italian Grand Prix,1962,Rodríguez,0.0
+Monaco Grand Prix,1961,Ginther,6.0
+Monaco Grand Prix,1961,Hill,4.0
+Monaco Grand Prix,1961,von Trips,3.0
+Dutch Grand Prix,1961,von Trips,9.0
+Dutch Grand Prix,1961,Hill,6.0
+Dutch Grand Prix,1961,Ginther,2.0
+Belgian Grand Prix,1961,Hill,9.0
+Belgian Grand Prix,1961,von Trips,6.0
+Belgian Grand Prix,1961,Ginther,4.0
+Belgian Grand Prix,1961,Gendebien,3.0
+French Grand Prix,1961,Baghetti,9.0
+French Grand Prix,1961,Hill,0.0
+French Grand Prix,1961,Ginther,0.0
+French Grand Prix,1961,von Trips,0.0
+British Grand Prix,1961,von Trips,9.0
+British Grand Prix,1961,Hill,6.0
+British Grand Prix,1961,Ginther,4.0
+British Grand Prix,1961,Baghetti,0.0
+German Grand Prix,1961,von Trips,6.0
+German Grand Prix,1961,Hill,4.0
+German Grand Prix,1961,Ginther,0.0
+German Grand Prix,1961,Mairesse,0.0
+Italian Grand Prix,1961,Hill,9.0
+Italian Grand Prix,1961,Ginther,0.0
+Italian Grand Prix,1961,Rodríguez,0.0
+Italian Grand Prix,1961,Baghetti,0.0
+Italian Grand Prix,1961,von Trips,0.0
+Argentine Grand Prix,1960,Allison,6.0
+Argentine Grand Prix,1960,von Trips,2.0
+Argentine Grand Prix,1960,Hill,0.0
+Argentine Grand Prix,1960,González,0.0
+Monaco Grand Prix,1960,Hill,4.0
+Monaco Grand Prix,1960,Ginther,1.0
+Monaco Grand Prix,1960,von Trips,0.0
+Monaco Grand Prix,1960,Allison,0.0
+Dutch Grand Prix,1960,von Trips,2.0
+Dutch Grand Prix,1960,Ginther,1.0
+Dutch Grand Prix,1960,Hill,0.0
+Belgian Grand Prix,1960,Hill,3.0
+Belgian Grand Prix,1960,Mairesse,0.0
+Belgian Grand Prix,1960,von Trips,0.0
+French Grand Prix,1960,von Trips,0.0
+French Grand Prix,1960,Hill,0.0
+French Grand Prix,1960,Mairesse,0.0
+British Grand Prix,1960,von Trips,1.0
+British Grand Prix,1960,Hill,0.0
+Portuguese Grand Prix,1960,von Trips,3.0
+Portuguese Grand Prix,1960,Hill,0.0
+Italian Grand Prix,1960,Hill,8.0
+Italian Grand Prix,1960,Ginther,6.0
+Italian Grand Prix,1960,Mairesse,4.0
+Italian Grand Prix,1960,von Trips,2.0
+Monaco Grand Prix,1959,Brooks,6.0
+Monaco Grand Prix,1959,Hill,3.0
+Monaco Grand Prix,1959,Behra,0.0
+Monaco Grand Prix,1959,Allison,0.0
+Dutch Grand Prix,1959,Behra,2.0
+Dutch Grand Prix,1959,Hill,0.0
+Dutch Grand Prix,1959,Allison,0.0
+Dutch Grand Prix,1959,Brooks,0.0
+French Grand Prix,1959,Brooks,8.0
+French Grand Prix,1959,Hill,6.0
+French Grand Prix,1959,Gendebien,3.0
+French Grand Prix,1959,Behra,0.0
+French Grand Prix,1959,Gurney,0.0
+German Grand Prix,1959,Brooks,9.0
+German Grand Prix,1959,Gurney,6.0
+German Grand Prix,1959,Hill,4.0
+German Grand Prix,1959,Allison,0.0
+Portuguese Grand Prix,1959,Gurney,4.0
+Portuguese Grand Prix,1959,Brooks,0.0
+Portuguese Grand Prix,1959,Hill,0.0
+Italian Grand Prix,1959,Hill,7.0
+Italian Grand Prix,1959,Gurney,3.0
+Italian Grand Prix,1959,Allison,2.0
+Italian Grand Prix,1959,Gendebien,0.0
+Italian Grand Prix,1959,Brooks,0.0
+United States Grand Prix,1959,Brooks,4.0
+United States Grand Prix,1959,von Trips,0.0
+United States Grand Prix,1959,Allison,0.0
+United States Grand Prix,1959,Hill,0.0
+Argentine Grand Prix,1958,Musso,6.0
+Argentine Grand Prix,1958,Hawthorn,4.0
+Argentine Grand Prix,1958,Collins,0.0
+Monaco Grand Prix,1958,Musso,6.0
+Monaco Grand Prix,1958,Collins,4.0
+Monaco Grand Prix,1958,von Trips,0.0
+Monaco Grand Prix,1958,Hawthorn,1.0
+Dutch Grand Prix,1958,Hawthorn,2.0
+Dutch Grand Prix,1958,Musso,0.0
+Dutch Grand Prix,1958,Collins,0.0
+Belgian Grand Prix,1958,Hawthorn,7.0
+Belgian Grand Prix,1958,Gendebien,0.0
+Belgian Grand Prix,1958,Musso,0.0
+Belgian Grand Prix,1958,Collins,0.0
+French Grand Prix,1958,Hawthorn,9.0
+French Grand Prix,1958,von Trips,4.0
+French Grand Prix,1958,Collins,2.0
+French Grand Prix,1958,Musso,0.0
+British Grand Prix,1958,Collins,8.0
+British Grand Prix,1958,Hawthorn,7.0
+British Grand Prix,1958,von Trips,0.0
+German Grand Prix,1958,von Trips,3.0
+German Grand Prix,1958,Hill,0.0
+German Grand Prix,1958,Hawthorn,0.0
+German Grand Prix,1958,Collins,0.0
+Portuguese Grand Prix,1958,Hawthorn,7.0
+Portuguese Grand Prix,1958,von Trips,2.0
+Italian Grand Prix,1958,Hawthorn,6.0
+Italian Grand Prix,1958,Hill,5.0
+Italian Grand Prix,1958,Gendebien,0.0
+Italian Grand Prix,1958,von Trips,0.0
+Moroccan Grand Prix,1958,Hawthorn,6.0
+Moroccan Grand Prix,1958,Hill,4.0
+Moroccan Grand Prix,1958,Gendebien,0.0
+Argentine Grand Prix,1957,de Portago,1.0
+Argentine Grand Prix,1957,Perdisa,0.0
+Argentine Grand Prix,1957,de Tomaso,0.0
+Argentine Grand Prix,1957,Castellotti,0.0
+Argentine Grand Prix,1957,Hawthorn,0.0
+Argentine Grand Prix,1957,Musso,0.0
+Argentine Grand Prix,1957,Collins,0.0
+Monaco Grand Prix,1957,Trintignant,2.0
+Monaco Grand Prix,1957,von Trips,0.0
+Monaco Grand Prix,1957,Collins,0.0
+Monaco Grand Prix,1957,Hawthorn,0.0
+French Grand Prix,1957,Musso,7.0
+French Grand Prix,1957,Collins,4.0
+French Grand Prix,1957,Hawthorn,3.0
+French Grand Prix,1957,Trintignant,0.0
+British Grand Prix,1957,Musso,6.0
+British Grand Prix,1957,Hawthorn,4.0
+British Grand Prix,1957,Trintignant,3.0
+British Grand Prix,1957,Collins,0.0
+German Grand Prix,1957,Hawthorn,6.0
+German Grand Prix,1957,Collins,4.0
+German Grand Prix,1957,Musso,3.0
+Pescara Grand Prix,1957,Musso,0.0
+Italian Grand Prix,1957,von Trips,4.0
+Italian Grand Prix,1957,Hawthorn,0.0
+Italian Grand Prix,1957,Musso,0.0
+Italian Grand Prix,1957,Collins,0.0
+Argentine Grand Prix,1956,Musso,5.0
+Argentine Grand Prix,1956,Gendebien,2.0
+Argentine Grand Prix,1956,Collins,0.0
+Argentine Grand Prix,1956,Castellotti,0.0
+Argentine Grand Prix,1956,Fangio,0.0
+Monaco Grand Prix,1956,Collins,3.0
+Monaco Grand Prix,1956,Fangio,1.5
+Monaco Grand Prix,1956,Castellotti,0.0
+Monaco Grand Prix,1956,Musso,0.0
+Monaco Grand Prix,1956,Scarlatti,0.0
+Belgian Grand Prix,1956,Collins,8.0
+Belgian Grand Prix,1956,Frère,6.0
+Belgian Grand Prix,1956,Pilette,0.0
+Belgian Grand Prix,1956,Fangio,0.0
+Belgian Grand Prix,1956,Castellotti,0.0
+French Grand Prix,1956,Collins,8.0
+French Grand Prix,1956,Castellotti,6.0
+French Grand Prix,1956,Fangio,4.0
+French Grand Prix,1956,Gendebien,0.0
+French Grand Prix,1956,de Portago,0.0
+British Grand Prix,1956,Fangio,8.0
+British Grand Prix,1956,de Portago,3.0
+British Grand Prix,1956,Castellotti,0.0
+British Grand Prix,1956,Collins,0.0
+German Grand Prix,1956,Fangio,9.0
+German Grand Prix,1956,de Portago,0.0
+German Grand Prix,1956,Musso,0.0
+German Grand Prix,1956,Collins,0.0
+German Grand Prix,1956,Castellotti,0.0
+German Grand Prix,1956,Scarlatti,0.0
+Italian Grand Prix,1956,Collins,3.0
+Italian Grand Prix,1956,Fangio,0.0
+Italian Grand Prix,1956,Musso,0.0
+Italian Grand Prix,1956,Castellotti,0.0
+Italian Grand Prix,1956,de Portago,0.0
+Italian Grand Prix,1956,von Trips,0.0
+Argentine Grand Prix,1955,González,2.0
+Argentine Grand Prix,1955,Farina,1.33
+Argentine Grand Prix,1955,Trintignant,0.0
+Monaco Grand Prix,1955,Trintignant,8.0
+Monaco Grand Prix,1955,Farina,3.0
+Monaco Grand Prix,1955,Taruffi,0.0
+Monaco Grand Prix,1955,Schell,0.0
+Belgian Grand Prix,1955,Farina,4.0
+Belgian Grand Prix,1955,Frère,3.0
+Belgian Grand Prix,1955,Trintignant,0.0
+Belgian Grand Prix,1955,Taruffi,0.0
+Belgian Grand Prix,1955,Schell,0.0
+Dutch Grand Prix,1955,Castellotti,2.0
+Dutch Grand Prix,1955,Hawthorn,0.0
+Dutch Grand Prix,1955,Claes,0.0
+Dutch Grand Prix,1955,Trintignant,0.0
+British Grand Prix,1955,Hawthorn,0.0
+British Grand Prix,1955,Trintignant,0.0
+British Grand Prix,1955,Castellotti,0.0
+Italian Grand Prix,1955,Castellotti,4.0
+Italian Grand Prix,1955,Maglioli,0.0
+Italian Grand Prix,1955,Trintignant,0.0
+Italian Grand Prix,1955,Hawthorn,0.0
+Italian Grand Prix,1955,Farina,0.0
+Italian Grand Prix,1955,Villoresi,0.0
+Argentine Grand Prix,1954,Farina,6.0
+Argentine Grand Prix,1954,González,5.0
+Argentine Grand Prix,1954,Trintignant,3.0
+Argentine Grand Prix,1954,Maglioli,0.0
+Argentine Grand Prix,1954,Hawthorn,0.0
+Argentine Grand Prix,1954,Rosier,0.0
+Belgian Grand Prix,1954,Trintignant,6.0
+Belgian Grand Prix,1954,González,1.5
+Belgian Grand Prix,1954,Farina,0.0
+Belgian Grand Prix,1954,González,0.0
+Belgian Grand Prix,1954,Swaters,0.0
+French Grand Prix,1954,Manzon,4.0
+French Grand Prix,1954,Trintignant,0.0
+French Grand Prix,1954,Rosier,0.0
+French Grand Prix,1954,González,0.0
+French Grand Prix,1954,Hawthorn,0.0
+British Grand Prix,1954,González,8.14
+British Grand Prix,1954,Hawthorn,6.14
+British Grand Prix,1954,Trintignant,2.0
+British Grand Prix,1954,Parnell,0.0
+British Grand Prix,1954,Manzon,0.0
+British Grand Prix,1954,Rosier,0.0
+German Grand Prix,1954,González,3.0
+German Grand Prix,1954,Trintignant,4.0
+German Grand Prix,1954,Taruffi,0.0
+German Grand Prix,1954,Rosier,0.0
+German Grand Prix,1954,Manzon,0.0
+German Grand Prix,1954,Hawthorn,0.0
+Swiss Grand Prix,1954,González,6.0
+Swiss Grand Prix,1954,Maglioli,0.0
+Swiss Grand Prix,1954,Swaters,0.0
+Swiss Grand Prix,1954,Trintignant,0.0
+Swiss Grand Prix,1954,Hawthorn,0.0
+Swiss Grand Prix,1954,Manzon,0.0
+Italian Grand Prix,1954,Hawthorn,6.0
+Italian Grand Prix,1954,Maglioli,2.0
+Italian Grand Prix,1954,Trintignant,2.0
+Italian Grand Prix,1954,Ascari,0.0
+Italian Grand Prix,1954,González,0.0
+Italian Grand Prix,1954,Manzon,0.0
+Spanish Grand Prix,1954,Hawthorn,8.0
+Spanish Grand Prix,1954,Trintignant,0.0
+Spanish Grand Prix,1954,Swaters,0.0
+Spanish Grand Prix,1954,Manzon,0.0
+Argentine Grand Prix,1953,Ascari,9.0
+Argentine Grand Prix,1953,Villoresi,6.0
+Argentine Grand Prix,1953,Hawthorn,3.0
+Argentine Grand Prix,1953,Farina,0.0
+Dutch Grand Prix,1953,Ascari,8.0
+Dutch Grand Prix,1953,Farina,6.0
+Dutch Grand Prix,1953,Hawthorn,3.0
+Dutch Grand Prix,1953,Rosier,0.0
+Dutch Grand Prix,1953,Villoresi,1.0
+Belgian Grand Prix,1953,Ascari,8.0
+Belgian Grand Prix,1953,Villoresi,6.0
+Belgian Grand Prix,1953,Hawthorn,0.0
+Belgian Grand Prix,1953,Rosier,0.0
+Belgian Grand Prix,1953,Farina,0.0
+French Grand Prix,1953,Hawthorn,8.0
+French Grand Prix,1953,Ascari,3.0
+French Grand Prix,1953,Farina,2.0
+French Grand Prix,1953,Villoresi,0.0
+French Grand Prix,1953,Rosier,0.0
+British Grand Prix,1953,Ascari,8.5
+British Grand Prix,1953,Farina,4.0
+British Grand Prix,1953,Hawthorn,2.0
+British Grand Prix,1953,Rosier,0.0
+British Grand Prix,1953,Villoresi,0.0
+German Grand Prix,1953,Farina,8.0
+German Grand Prix,1953,Hawthorn,4.0
+German Grand Prix,1953,Swaters,0.0
+German Grand Prix,1953,Ascari,0.0
+German Grand Prix,1953,Rosier,0.0
+German Grand Prix,1953,Villoresi,0.0
+German Grand Prix,1953,Adolff,0.0
+Swiss Grand Prix,1953,Ascari,9.0
+Swiss Grand Prix,1953,Farina,6.0
+Swiss Grand Prix,1953,Hawthorn,4.0
+Swiss Grand Prix,1953,Villoresi,0.0
+Swiss Grand Prix,1953,de Terra,0.0
+Swiss Grand Prix,1953,Hirt,0.0
+Swiss Grand Prix,1953,Swaters,0.0
+Swiss Grand Prix,1953,Rosier,0.0
+Italian Grand Prix,1953,Farina,6.0
+Italian Grand Prix,1953,Villoresi,4.0
+Italian Grand Prix,1953,Hawthorn,3.0
+Italian Grand Prix,1953,Maglioli,0.0
+Italian Grand Prix,1953,Rosier,0.0
+Italian Grand Prix,1953,Ascari,0.0
+Italian Grand Prix,1953,Carini,0.0
+Swiss Grand Prix,1952,Taruffi,9.0
+Swiss Grand Prix,1952,Fischer,6.0
+Swiss Grand Prix,1952,Hirt,0.0
+Swiss Grand Prix,1952,Simon,0.0
+Swiss Grand Prix,1952,Farina,0.0
+Swiss Grand Prix,1952,Rosier,0.0
+Indianapolis 500,1952,Ascari,0.0
+Belgian Grand Prix,1952,Ascari,9.0
+Belgian Grand Prix,1952,Farina,6.0
+Belgian Grand Prix,1952,de Tornaco,0.0
+Belgian Grand Prix,1952,Taruffi,0.0
+Belgian Grand Prix,1952,Rosier,0.0
+French Grand Prix,1952,Ascari,9.0
+French Grand Prix,1952,Farina,6.0
+French Grand Prix,1952,Taruffi,4.0
+French Grand Prix,1952,Fischer,0.0
+French Grand Prix,1952,Comotti,0.0
+French Grand Prix,1952,Rosier,0.0
+French Grand Prix,1952,Carini,0.0
+British Grand Prix,1952,Ascari,9.0
+British Grand Prix,1952,Taruffi,6.0
+British Grand Prix,1952,Farina,0.0
+British Grand Prix,1952,Salvadori,0.0
+British Grand Prix,1952,Whitehead,0.0
+British Grand Prix,1952,Fischer,0.0
+British Grand Prix,1952,Hirt,0.0
+German Grand Prix,1952,Ascari,9.0
+German Grand Prix,1952,Farina,6.0
+German Grand Prix,1952,Fischer,4.0
+German Grand Prix,1952,Taruffi,3.0
+German Grand Prix,1952,Laurent,0.0
+German Grand Prix,1952,Schoeller,0.0
+German Grand Prix,1952,Carini,0.0
+Dutch Grand Prix,1952,Ascari,9.0
+Dutch Grand Prix,1952,Farina,6.0
+Dutch Grand Prix,1952,Villoresi,4.0
+Dutch Grand Prix,1952,de Tornaco,0.0
+Italian Grand Prix,1952,Ascari,8.5
+Italian Grand Prix,1952,Villoresi,4.0
+Italian Grand Prix,1952,Farina,3.0
+Italian Grand Prix,1952,Simon,0.0
+Italian Grand Prix,1952,Taruffi,0.0
+Italian Grand Prix,1952,Rosier,0.0
+Italian Grand Prix,1952,Fischer,0.0
+Italian Grand Prix,1952,de Tornaco,0.0
+Italian Grand Prix,1952,Whitehead,0.0
+Italian Grand Prix,1952,von Stuck,0.0
+Swiss Grand Prix,1951,Taruffi,6.0
+Swiss Grand Prix,1951,Ascari,0.0
+Swiss Grand Prix,1951,Fischer,0.0
+Swiss Grand Prix,1951,Whitehead,0.0
+Swiss Grand Prix,1951,Villoresi,0.0
+Belgian Grand Prix,1951,Ascari,6.0
+Belgian Grand Prix,1951,Villoresi,4.0
+Belgian Grand Prix,1951,Taruffi,0.0
+French Grand Prix,1951,Ascari,3.0
+French Grand Prix,1951,Villoresi,4.0
+French Grand Prix,1951,Parnell,3.0
+French Grand Prix,1951,Ascari,0.0
+French Grand Prix,1951,Whitehead,0.0
+British Grand Prix,1951,González,8.0
+British Grand Prix,1951,Villoresi,4.0
+British Grand Prix,1951,Whitehead,0.0
+British Grand Prix,1951,Ascari,0.0
+German Grand Prix,1951,Ascari,8.0
+German Grand Prix,1951,González,4.0
+German Grand Prix,1951,Villoresi,3.0
+German Grand Prix,1951,Taruffi,2.0
+German Grand Prix,1951,Fischer,0.0
+Italian Grand Prix,1951,Ascari,8.0
+Italian Grand Prix,1951,González,6.0
+Italian Grand Prix,1951,Villoresi,3.0
+Italian Grand Prix,1951,Taruffi,2.0
+Italian Grand Prix,1951,Whitehead,0.0
+Italian Grand Prix,1951,Landi,0.0
+Spanish Grand Prix,1951,González,6.0
+Spanish Grand Prix,1951,Ascari,3.0
+Spanish Grand Prix,1951,Villoresi,0.0
+Spanish Grand Prix,1951,Taruffi,0.0
+Monaco Grand Prix,1950,Ascari,6.0
+Monaco Grand Prix,1950,Sommer,3.0
+Monaco Grand Prix,1950,Villoresi,0.0
+Monaco Grand Prix,1950,Whitehead,0.0
+Swiss Grand Prix,1950,Sommer,0.0
+Swiss Grand Prix,1950,Villoresi,0.0
+Swiss Grand Prix,1950,Ascari,0.0
+Belgian Grand Prix,1950,Ascari,2.0
+Belgian Grand Prix,1950,Villoresi,0.0
+French Grand Prix,1950,Whitehead,4.0
+Italian Grand Prix,1950,Serafini,3.0
+Italian Grand Prix,1950,Whitehead,0.0
+Italian Grand Prix,1950,Ascari,0.0
+Italian Grand Prix,1950,Biondetti,0.0
+Italian Grand Prix,1950,Ascari,3.0
+French Grand Prix,1951,González,3.0
+Swiss Grand Prix,1952,Farina,0.0
+French Grand Prix,1952,Hirt,0.0
+German Grand Prix,1953,Villoresi,0.0
+German Grand Prix,1953,Ascari,1.0
+Belgian Grand Prix,1954,Hawthorn,1.5
+German Grand Prix,1954,Hawthorn,3.0
+Italian Grand Prix,1954,González,3.0
+Argentine Grand Prix,1955,Farina,2.0
+Argentine Grand Prix,1955,Trintignant,2.0
+Argentine Grand Prix,1955,Trintignant,1.33
+Argentine Grand Prix,1955,Maglioli,1.33
+Monaco Grand Prix,1955,Frère,0.0
+British Grand Prix,1955,Castellotti,0.0
+Argentine Grand Prix,1956,Fangio,5.0
+Monaco Grand Prix,1956,Fangio,4.0
+Monaco Grand Prix,1956,Castellotti,1.5
+British Grand Prix,1956,Collins,3.0
+British Grand Prix,1956,de Portago,0.0
+Italian Grand Prix,1956,Fangio,3.0
+Italian Grand Prix,1956,Castellotti,0.0
+Argentine Grand Prix,1957,González,1.0
+Argentine Grand Prix,1957,Collins,0.0
+Argentine Grand Prix,1957,von Trips,0.0
+Monaco Grand Prix,1957,Hawthorn,0.0
+British Grand Prix,1957,Collins,0.0
+South African Grand Prix,1963,Bandini,2.0
+South African Grand Prix,1963,Surtees,0.0
+Bahrain Grand Prix,2010,Alonso,25.0
+Bahrain Grand Prix,2010,Massa,18.0
+Australian Grand Prix,2010,Massa,15.0
+Australian Grand Prix,2010,Alonso,12.0
+Malaysian Grand Prix,2010,Massa,6.0
+Malaysian Grand Prix,2010,Alonso,0.0
+Chinese Grand Prix,2010,Alonso,12.0
+Chinese Grand Prix,2010,Massa,2.0
+Spanish Grand Prix,2010,Alonso,18.0
+Spanish Grand Prix,2010,Massa,8.0
+Monaco Grand Prix,2010,Massa,12.0
+Monaco Grand Prix,2010,Alonso,8.0
+Turkish Grand Prix,2010,Massa,6.0
+Turkish Grand Prix,2010,Alonso,4.0
+Canadian Grand Prix,2010,Alonso,15.0
+Canadian Grand Prix,2010,Massa,0.0
+European Grand Prix,2010,Alonso,4.0
+European Grand Prix,2010,Massa,0.0
+British Grand Prix,2010,Alonso,0.0
+British Grand Prix,2010,Massa,0.0
+German Grand Prix,2010,Alonso,25.0
+German Grand Prix,2010,Massa,18.0
+Hungarian Grand Prix,2010,Alonso,18.0
+Hungarian Grand Prix,2010,Massa,12.0
+Belgian Grand Prix,2010,Massa,12.0
+Belgian Grand Prix,2010,Alonso,0.0
+Italian Grand Prix,2010,Alonso,25.0
+Italian Grand Prix,2010,Massa,15.0
+Singapore Grand Prix,2010,Alonso,25.0
+Singapore Grand Prix,2010,Massa,4.0
+Japanese Grand Prix,2010,Alonso,15.0
+Japanese Grand Prix,2010,Massa,0.0
+Korean Grand Prix,2010,Alonso,25.0
+Korean Grand Prix,2010,Massa,15.0
+Brazilian Grand Prix,2010,Alonso,15.0
+Brazilian Grand Prix,2010,Massa,0.0
+Abu Dhabi Grand Prix,2010,Alonso,6.0
+Abu Dhabi Grand Prix,2010,Massa,1.0
+Australian Grand Prix,2011,Alonso,12.0
+Australian Grand Prix,2011,Massa,6.0
+Malaysian Grand Prix,2011,Massa,10.0
+Malaysian Grand Prix,2011,Alonso,8.0
+Chinese Grand Prix,2011,Massa,8.0
+Chinese Grand Prix,2011,Alonso,6.0
+Turkish Grand Prix,2011,Alonso,15.0
+Turkish Grand Prix,2011,Massa,0.0
+Spanish Grand Prix,2011,Alonso,10.0
+Spanish Grand Prix,2011,Massa,0.0
+Monaco Grand Prix,2011,Alonso,18.0
+Monaco Grand Prix,2011,Massa,0.0
+Canadian Grand Prix,2011,Massa,8.0
+Canadian Grand Prix,2011,Alonso,0.0
+European Grand Prix,2011,Alonso,18.0
+European Grand Prix,2011,Massa,10.0
+British Grand Prix,2011,Alonso,25.0
+British Grand Prix,2011,Massa,10.0
+German Grand Prix,2011,Alonso,18.0
+German Grand Prix,2011,Massa,10.0
+Hungarian Grand Prix,2011,Alonso,15.0
+Hungarian Grand Prix,2011,Massa,8.0
+Belgian Grand Prix,2011,Alonso,12.0
+Belgian Grand Prix,2011,Massa,4.0
+Italian Grand Prix,2011,Alonso,15.0
+Italian Grand Prix,2011,Massa,8.0
+Singapore Grand Prix,2011,Alonso,12.0
+Singapore Grand Prix,2011,Massa,2.0
+Japanese Grand Prix,2011,Alonso,18.0
+Japanese Grand Prix,2011,Massa,6.0
+Korean Grand Prix,2011,Alonso,10.0
+Korean Grand Prix,2011,Massa,8.0
+Indian Grand Prix,2011,Alonso,15.0
+Indian Grand Prix,2011,Massa,0.0
+Abu Dhabi Grand Prix,2011,Alonso,18.0
+Abu Dhabi Grand Prix,2011,Massa,10.0
+Brazilian Grand Prix,2011,Alonso,12.0
+Brazilian Grand Prix,2011,Massa,10.0
+Australian Grand Prix,2012,Alonso,10.0
+Australian Grand Prix,2012,Massa,0.0
+Malaysian Grand Prix,2012,Alonso,25.0
+Malaysian Grand Prix,2012,Massa,0.0
+Chinese Grand Prix,2012,Alonso,2.0
+Chinese Grand Prix,2012,Massa,0.0
+Bahrain Grand Prix,2012,Alonso,6.0
+Bahrain Grand Prix,2012,Massa,2.0
+Spanish Grand Prix,2012,Alonso,18.0
+Spanish Grand Prix,2012,Massa,0.0
+Monaco Grand Prix,2012,Alonso,15.0
+Monaco Grand Prix,2012,Massa,8.0
+Canadian Grand Prix,2012,Alonso,10.0
+Canadian Grand Prix,2012,Massa,1.0
+European Grand Prix,2012,Alonso,25.0
+European Grand Prix,2012,Massa,0.0
+British Grand Prix,2012,Alonso,18.0
+British Grand Prix,2012,Massa,12.0
+German Grand Prix,2012,Alonso,25.0
+German Grand Prix,2012,Massa,0.0
+Hungarian Grand Prix,2012,Alonso,10.0
+Hungarian Grand Prix,2012,Massa,2.0
+Belgian Grand Prix,2012,Massa,10.0
+Belgian Grand Prix,2012,Alonso,0.0
+Italian Grand Prix,2012,Alonso,15.0
+Italian Grand Prix,2012,Massa,12.0
+Singapore Grand Prix,2012,Alonso,15.0
+Singapore Grand Prix,2012,Massa,4.0
+Japanese Grand Prix,2012,Massa,18.0
+Japanese Grand Prix,2012,Alonso,0.0
+Korean Grand Prix,2012,Alonso,15.0
+Korean Grand Prix,2012,Massa,12.0
+Indian Grand Prix,2012,Alonso,18.0
+Indian Grand Prix,2012,Massa,8.0
+Abu Dhabi Grand Prix,2012,Alonso,18.0
+Abu Dhabi Grand Prix,2012,Massa,6.0
+United States Grand Prix,2012,Alonso,15.0
+United States Grand Prix,2012,Massa,12.0
+Brazilian Grand Prix,2012,Alonso,18.0
+Brazilian Grand Prix,2012,Massa,15.0
+Australian Grand Prix,2013,Alonso,18.0
+Australian Grand Prix,2013,Massa,12.0
+Malaysian Grand Prix,2013,Massa,10.0
+Malaysian Grand Prix,2013,Alonso,0.0
+Chinese Grand Prix,2013,Alonso,25.0
+Chinese Grand Prix,2013,Massa,8.0
+Bahrain Grand Prix,2013,Alonso,4.0
+Bahrain Grand Prix,2013,Massa,0.0
+Spanish Grand Prix,2013,Alonso,25.0
+Spanish Grand Prix,2013,Massa,15.0
+Monaco Grand Prix,2013,Alonso,6.0
+Monaco Grand Prix,2013,Massa,0.0
+Canadian Grand Prix,2013,Alonso,18.0
+Canadian Grand Prix,2013,Massa,4.0
+British Grand Prix,2013,Alonso,15.0
+British Grand Prix,2013,Massa,8.0
+German Grand Prix,2013,Alonso,12.0
+German Grand Prix,2013,Massa,0.0
+Hungarian Grand Prix,2013,Alonso,10.0
+Hungarian Grand Prix,2013,Massa,4.0
+Belgian Grand Prix,2013,Alonso,18.0
+Belgian Grand Prix,2013,Massa,6.0
+Italian Grand Prix,2013,Alonso,18.0
+Italian Grand Prix,2013,Massa,12.0
+Singapore Grand Prix,2013,Alonso,18.0
+Singapore Grand Prix,2013,Massa,8.0
+Korean Grand Prix,2013,Alonso,8.0
+Korean Grand Prix,2013,Massa,2.0
+Japanese Grand Prix,2013,Alonso,12.0
+Japanese Grand Prix,2013,Massa,1.0
+Indian Grand Prix,2013,Massa,12.0
+Indian Grand Prix,2013,Alonso,0.0
+Abu Dhabi Grand Prix,2013,Alonso,10.0
+Abu Dhabi Grand Prix,2013,Massa,4.0
+United States Grand Prix,2013,Alonso,10.0
+United States Grand Prix,2013,Massa,0.0
+Brazilian Grand Prix,2013,Alonso,15.0
+Brazilian Grand Prix,2013,Massa,6.0
+Australian Grand Prix,2014,Alonso,12.0
+Australian Grand Prix,2014,Räikkönen,6.0
+Malaysian Grand Prix,2014,Alonso,12.0
+Malaysian Grand Prix,2014,Räikkönen,0.0
+Bahrain Grand Prix,2014,Alonso,2.0
+Bahrain Grand Prix,2014,Räikkönen,1.0
+Chinese Grand Prix,2014,Alonso,15.0
+Chinese Grand Prix,2014,Räikkönen,4.0
+Spanish Grand Prix,2014,Alonso,8.0
+Spanish Grand Prix,2014,Räikkönen,6.0
+Monaco Grand Prix,2014,Alonso,12.0
+Monaco Grand Prix,2014,Räikkönen,0.0
+Canadian Grand Prix,2014,Alonso,8.0
+Canadian Grand Prix,2014,Räikkönen,1.0
+Austrian Grand Prix,2014,Alonso,10.0
+Austrian Grand Prix,2014,Räikkönen,1.0
+British Grand Prix,2014,Alonso,8.0
+British Grand Prix,2014,Räikkönen,0.0
+German Grand Prix,2014,Alonso,10.0
+German Grand Prix,2014,Räikkönen,0.0
+Hungarian Grand Prix,2014,Alonso,18.0
+Hungarian Grand Prix,2014,Räikkönen,8.0
+Belgian Grand Prix,2014,Räikkönen,12.0
+Belgian Grand Prix,2014,Alonso,6.0
+Italian Grand Prix,2014,Räikkönen,2.0
+Italian Grand Prix,2014,Alonso,0.0
+Singapore Grand Prix,2014,Alonso,12.0
+Singapore Grand Prix,2014,Räikkönen,4.0
+Japanese Grand Prix,2014,Räikkönen,0.0
+Japanese Grand Prix,2014,Alonso,0.0
+Russian Grand Prix,2014,Alonso,8.0
+Russian Grand Prix,2014,Räikkönen,2.0
+United States Grand Prix,2014,Alonso,8.0
+United States Grand Prix,2014,Räikkönen,0.0
+Brazilian Grand Prix,2014,Alonso,8.0
+Brazilian Grand Prix,2014,Räikkönen,6.0
+Abu Dhabi Grand Prix,2014,Alonso,4.0
+Abu Dhabi Grand Prix,2014,Räikkönen,2.0
+Australian Grand Prix,2015,Vettel,15.0
+Australian Grand Prix,2015,Räikkönen,0.0
+Malaysian Grand Prix,2015,Vettel,25.0
+Malaysian Grand Prix,2015,Räikkönen,12.0
+Chinese Grand Prix,2015,Vettel,15.0
+Chinese Grand Prix,2015,Räikkönen,12.0
+Bahrain Grand Prix,2015,Räikkönen,18.0
+Bahrain Grand Prix,2015,Vettel,10.0
+Spanish Grand Prix,2015,Vettel,15.0
+Spanish Grand Prix,2015,Räikkönen,10.0
+Monaco Grand Prix,2015,Vettel,18.0
+Monaco Grand Prix,2015,Räikkönen,8.0
+Canadian Grand Prix,2015,Räikkönen,12.0
+Canadian Grand Prix,2015,Vettel,10.0
+Austrian Grand Prix,2015,Vettel,12.0
+Austrian Grand Prix,2015,Räikkönen,0.0
+British Grand Prix,2015,Vettel,15.0
+British Grand Prix,2015,Räikkönen,4.0
+Hungarian Grand Prix,2015,Vettel,25.0
+Hungarian Grand Prix,2015,Räikkönen,0.0
+Belgian Grand Prix,2015,Räikkönen,6.0
+Belgian Grand Prix,2015,Vettel,0.0
+Italian Grand Prix,2015,Vettel,18.0
+Italian Grand Prix,2015,Räikkönen,10.0
+Singapore Grand Prix,2015,Vettel,25.0
+Singapore Grand Prix,2015,Räikkönen,15.0
+Japanese Grand Prix,2015,Vettel,15.0
+Japanese Grand Prix,2015,Räikkönen,12.0
+Russian Grand Prix,2015,Vettel,18.0
+Russian Grand Prix,2015,Räikkönen,4.0
+United States Grand Prix,2015,Vettel,15.0
+United States Grand Prix,2015,Räikkönen,0.0
+Mexican Grand Prix,2015,Vettel,0.0
+Mexican Grand Prix,2015,Räikkönen,0.0
+Brazilian Grand Prix,2015,Vettel,15.0
+Brazilian Grand Prix,2015,Räikkönen,12.0
+Abu Dhabi Grand Prix,2015,Räikkönen,15.0
+Abu Dhabi Grand Prix,2015,Vettel,12.0
+Australian Grand Prix,2016,Vettel,15.0
+Australian Grand Prix,2016,Räikkönen,0.0
+Bahrain Grand Prix,2016,Räikkönen,18.0
+Bahrain Grand Prix,2016,Vettel,0.0
+Chinese Grand Prix,2016,Vettel,18.0
+Chinese Grand Prix,2016,Räikkönen,10.0
+Russian Grand Prix,2016,Räikkönen,15.0
+Russian Grand Prix,2016,Vettel,0.0
+Spanish Grand Prix,2016,Räikkönen,18.0
+Spanish Grand Prix,2016,Vettel,15.0
+Monaco Grand Prix,2016,Vettel,12.0
+Monaco Grand Prix,2016,Räikkönen,0.0
+Canadian Grand Prix,2016,Vettel,18.0
+Canadian Grand Prix,2016,Räikkönen,8.0
+European Grand Prix,2016,Vettel,18.0
+European Grand Prix,2016,Räikkönen,12.0
+Austrian Grand Prix,2016,Räikkönen,15.0
+Austrian Grand Prix,2016,Vettel,0.0
+British Grand Prix,2016,Räikkönen,10.0
+British Grand Prix,2016,Vettel,2.0
+Hungarian Grand Prix,2016,Vettel,12.0
+Hungarian Grand Prix,2016,Räikkönen,8.0
+German Grand Prix,2016,Vettel,10.0
+German Grand Prix,2016,Räikkönen,8.0
+Belgian Grand Prix,2016,Vettel,8.0
+Belgian Grand Prix,2016,Räikkönen,2.0
+Italian Grand Prix,2016,Vettel,15.0
+Italian Grand Prix,2016,Räikkönen,12.0
+Singapore Grand Prix,2016,Räikkönen,12.0
+Singapore Grand Prix,2016,Vettel,10.0
+Malaysian Grand Prix,2016,Räikkönen,12.0
+Malaysian Grand Prix,2016,Vettel,0.0
+Japanese Grand Prix,2016,Vettel,12.0
+Japanese Grand Prix,2016,Räikkönen,10.0
+United States Grand Prix,2016,Vettel,12.0
+United States Grand Prix,2016,Räikkönen,0.0
+Mexican Grand Prix,2016,Vettel,10.0
+Mexican Grand Prix,2016,Räikkönen,8.0
+Brazilian Grand Prix,2016,Vettel,10.0
+Brazilian Grand Prix,2016,Räikkönen,0.0
+Abu Dhabi Grand Prix,2016,Vettel,15.0
+Abu Dhabi Grand Prix,2016,Räikkönen,8.0
+Australian Grand Prix,2017,Vettel,25.0
+Australian Grand Prix,2017,Räikkönen,12.0
+Chinese Grand Prix,2017,Vettel,18.0
+Chinese Grand Prix,2017,Räikkönen,10.0
+Bahrain Grand Prix,2017,Vettel,25.0
+Bahrain Grand Prix,2017,Räikkönen,12.0
+Russian Grand Prix,2017,Vettel,18.0
+Russian Grand Prix,2017,Räikkönen,15.0
+Spanish Grand Prix,2017,Vettel,18.0
+Spanish Grand Prix,2017,Räikkönen,0.0
+Monaco Grand Prix,2017,Vettel,25.0
+Monaco Grand Prix,2017,Räikkönen,18.0
+Canadian Grand Prix,2017,Vettel,12.0
+Canadian Grand Prix,2017,Räikkönen,6.0
+Azerbaijan Grand Prix,2017,Vettel,12.0
+Azerbaijan Grand Prix,2017,Räikkönen,0.0
+Austrian Grand Prix,2017,Vettel,18.0
+Austrian Grand Prix,2017,Räikkönen,10.0
+British Grand Prix,2017,Räikkönen,15.0
+British Grand Prix,2017,Vettel,6.0
+Hungarian Grand Prix,2017,Vettel,25.0
+Hungarian Grand Prix,2017,Räikkönen,18.0
+Belgian Grand Prix,2017,Vettel,18.0
+Belgian Grand Prix,2017,Räikkönen,12.0
+Italian Grand Prix,2017,Vettel,15.0
+Italian Grand Prix,2017,Räikkönen,10.0
+Singapore Grand Prix,2017,Vettel,0.0
+Singapore Grand Prix,2017,Räikkönen,0.0
+Malaysian Grand Prix,2017,Vettel,12.0
+Malaysian Grand Prix,2017,Räikkönen,0.0
+Japanese Grand Prix,2017,Räikkönen,10.0
+Japanese Grand Prix,2017,Vettel,0.0
+United States Grand Prix,2017,Vettel,18.0
+United States Grand Prix,2017,Räikkönen,15.0
+Mexican Grand Prix,2017,Räikkönen,15.0
+Mexican Grand Prix,2017,Vettel,12.0
+Brazilian Grand Prix,2017,Vettel,25.0
+Brazilian Grand Prix,2017,Räikkönen,15.0
+Abu Dhabi Grand Prix,2017,Vettel,15.0
+Abu Dhabi Grand Prix,2017,Räikkönen,12.0
+Australian Grand Prix,2018,Vettel,25.0
+Australian Grand Prix,2018,Räikkönen,15.0
+Bahrain Grand Prix,2018,Vettel,25.0
+Bahrain Grand Prix,2018,Räikkönen,0.0
+Chinese Grand Prix,2018,Räikkönen,15.0
+Chinese Grand Prix,2018,Vettel,4.0
+Azerbaijan Grand Prix,2018,Räikkönen,18.0
+Azerbaijan Grand Prix,2018,Vettel,12.0
+Spanish Grand Prix,2018,Vettel,12.0
+Spanish Grand Prix,2018,Räikkönen,0.0
+Monaco Grand Prix,2018,Vettel,18.0
+Monaco Grand Prix,2018,Räikkönen,12.0
+Canadian Grand Prix,2018,Vettel,25.0
+Canadian Grand Prix,2018,Räikkönen,8.0
+French Grand Prix,2018,Räikkönen,15.0
+French Grand Prix,2018,Vettel,10.0
+Austrian Grand Prix,2018,Räikkönen,18.0
+Austrian Grand Prix,2018,Vettel,15.0
+British Grand Prix,2018,Vettel,25.0
+British Grand Prix,2018,Räikkönen,15.0
+German Grand Prix,2018,Räikkönen,15.0
+German Grand Prix,2018,Vettel,0.0
+Hungarian Grand Prix,2018,Vettel,18.0
+Hungarian Grand Prix,2018,Räikkönen,15.0
+Belgian Grand Prix,2018,Vettel,25.0
+Belgian Grand Prix,2018,Räikkönen,0.0
+Italian Grand Prix,2018,Räikkönen,18.0
+Italian Grand Prix,2018,Vettel,12.0
+Singapore Grand Prix,2018,Vettel,15.0
+Singapore Grand Prix,2018,Räikkönen,10.0
+Russian Grand Prix,2018,Vettel,15.0
+Russian Grand Prix,2018,Räikkönen,12.0
+Japanese Grand Prix,2018,Räikkönen,10.0
+Japanese Grand Prix,2018,Vettel,8.0
+United States Grand Prix,2018,Räikkönen,25.0
+United States Grand Prix,2018,Vettel,12.0
+Mexican Grand Prix,2018,Vettel,18.0
+Mexican Grand Prix,2018,Räikkönen,15.0
+Brazilian Grand Prix,2018,Räikkönen,15.0
+Brazilian Grand Prix,2018,Vettel,8.0
+Abu Dhabi Grand Prix,2018,Vettel,18.0
+Abu Dhabi Grand Prix,2018,Räikkönen,0.0
+Australian Grand Prix,2019,Vettel,12.0
+Australian Grand Prix,2019,Leclerc,10.0
+Bahrain Grand Prix,2019,Leclerc,16.0
+Bahrain Grand Prix,2019,Vettel,10.0
+Chinese Grand Prix,2019,Vettel,15.0
+Chinese Grand Prix,2019,Leclerc,10.0
+Azerbaijan Grand Prix,2019,Vettel,15.0
+Azerbaijan Grand Prix,2019,Leclerc,11.0
+Spanish Grand Prix,2019,Vettel,12.0
+Spanish Grand Prix,2019,Leclerc,10.0
+Monaco Grand Prix,2019,Vettel,18.0
+Monaco Grand Prix,2019,Leclerc,0.0
+Canadian Grand Prix,2019,Vettel,18.0
+Canadian Grand Prix,2019,Leclerc,15.0
+French Grand Prix,2019,Leclerc,15.0
+French Grand Prix,2019,Vettel,11.0
+Austrian Grand Prix,2019,Leclerc,18.0
+Austrian Grand Prix,2019,Vettel,12.0
+British Grand Prix,2019,Leclerc,15.0
+British Grand Prix,2019,Vettel,0.0
+German Grand Prix,2019,Vettel,18.0
+German Grand Prix,2019,Leclerc,0.0
+Hungarian Grand Prix,2019,Vettel,15.0
+Hungarian Grand Prix,2019,Leclerc,12.0
+Belgian Grand Prix,2019,Leclerc,25.0
+Belgian Grand Prix,2019,Vettel,13.0
+Italian Grand Prix,2019,Leclerc,25.0
+Italian Grand Prix,2019,Vettel,0.0
+Singapore Grand Prix,2019,Vettel,25.0
+Singapore Grand Prix,2019,Leclerc,18.0
+Russian Grand Prix,2019,Leclerc,15.0
+Russian Grand Prix,2019,Vettel,0.0
+Japanese Grand Prix,2019,Vettel,18.0
+Japanese Grand Prix,2019,Leclerc,8.0
+Mexican Grand Prix,2019,Vettel,18.0
+Mexican Grand Prix,2019,Leclerc,13.0
+United States Grand Prix,2019,Leclerc,13.0
+United States Grand Prix,2019,Vettel,0.0
+Brazilian Grand Prix,2019,Vettel,0.0
+Brazilian Grand Prix,2019,Leclerc,0.0
+Abu Dhabi Grand Prix,2019,Leclerc,15.0
+Abu Dhabi Grand Prix,2019,Vettel,10.0
+Austrian Grand Prix,2020,Leclerc,18.0
+Austrian Grand Prix,2020,Vettel,1.0
+Styrian Grand Prix,2020,Leclerc,0.0
+Styrian Grand Prix,2020,Vettel,0.0
+Hungarian Grand Prix,2020,Vettel,8.0
+Hungarian Grand Prix,2020,Leclerc,0.0
+British Grand Prix,2020,Leclerc,15.0
+British Grand Prix,2020,Vettel,1.0
+70th Anniversary Grand Prix,2020,Leclerc,12.0
+70th Anniversary Grand Prix,2020,Vettel,0.0
+Spanish Grand Prix,2020,Vettel,6.0
+Spanish Grand Prix,2020,Leclerc,0.0
+Belgian Grand Prix,2020,Vettel,0.0
+Belgian Grand Prix,2020,Leclerc,0.0
+Italian Grand Prix,2020,Leclerc,0.0
+Italian Grand Prix,2020,Vettel,0.0
+Tuscan Grand Prix,2020,Leclerc,4.0
+Tuscan Grand Prix,2020,Vettel,1.0
+Russian Grand Prix,2020,Leclerc,8.0
+Russian Grand Prix,2020,Vettel,0.0
+Eifel Grand Prix,2020,Leclerc,6.0
+Eifel Grand Prix,2020,Vettel,0.0
+Portuguese Grand Prix,2020,Leclerc,12.0
+Portuguese Grand Prix,2020,Vettel,1.0
+Emilia Romagna Grand Prix,2020,Leclerc,10.0
+Emilia Romagna Grand Prix,2020,Vettel,0.0
+Turkish Grand Prix,2020,Vettel,15.0
+Turkish Grand Prix,2020,Leclerc,12.0
+Bahrain Grand Prix,2020,Leclerc,1.0
+Bahrain Grand Prix,2020,Vettel,0.0
+Sakhir Grand Prix,2020,Vettel,0.0
+Sakhir Grand Prix,2020,Leclerc,0.0
+Abu Dhabi Grand Prix,2020,Leclerc,0.0
+Abu Dhabi Grand Prix,2020,Vettel,0.0
+Bahrain Grand Prix,2021,Leclerc,8.0
+Bahrain Grand Prix,2021,Sainz,4.0
+Emilia Romagna Grand Prix,2021,Leclerc,12.0
+Emilia Romagna Grand Prix,2021,Sainz,10.0
+Portuguese Grand Prix,2021,Leclerc,8.0
+Portuguese Grand Prix,2021,Sainz,0.0
+Spanish Grand Prix,2021,Leclerc,12.0
+Spanish Grand Prix,2021,Sainz,6.0
+Monaco Grand Prix,2021,Sainz,18.0
+Monaco Grand Prix,2021,Leclerc,0.0
+Azerbaijan Grand Prix,2021,Leclerc,12.0
+Azerbaijan Grand Prix,2021,Sainz,4.0
+French Grand Prix,2021,Sainz,0.0
+French Grand Prix,2021,Leclerc,0.0
+Styrian Grand Prix,2021,Sainz,8.0
+Styrian Grand Prix,2021,Leclerc,6.0
+Austrian Grand Prix,2021,Sainz,10.0
+Austrian Grand Prix,2021,Leclerc,4.0
+British Grand Prix,2021,Leclerc,18.0
+British Grand Prix,2021,Sainz,8.0
+Hungarian Grand Prix,2021,Sainz,15.0
+Hungarian Grand Prix,2021,Leclerc,0.0
+Belgian Grand Prix,2021,Leclerc,2.0
+Belgian Grand Prix,2021,Sainz,0.5
+Dutch Grand Prix,2021,Leclerc,10.0
+Dutch Grand Prix,2021,Sainz,6.0
